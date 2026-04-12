@@ -43,10 +43,5 @@
         "date": "2026-04-13",
         "model": "15DY",
         "status": "DIAGNOSING"
-    },
-    "JLC-009": {
-        "date": "2026-04-13",
-        "model": "G78",
-        "status": "DIAGNOSING"
     }
 }
