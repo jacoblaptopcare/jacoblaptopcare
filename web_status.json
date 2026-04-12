@@ -48,10 +48,5 @@
         "date": "2026-04-13",
         "model": "G78",
         "status": "DIAGNOSING"
-    },
-    "JLC-010": {
-        "date": "2026-04-13",
-        "model": "INPIRON 3511",
-        "status": "RECEIVED"
     }
 }
