@@ -38,10 +38,5 @@
         "date": "2026-04-12",
         "model": "INPIRON 3511",
         "status": "WAITING PARTS"
-    },
-    "JLC-008": {
-        "date": "2026-04-13",
-        "model": "15DY",
-        "status": "DIAGNOSING"
     }
 }
