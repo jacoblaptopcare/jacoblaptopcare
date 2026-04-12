@@ -23,10 +23,5 @@
         "date": "2026-04-12",
         "model": "15DY",
         "status": "DELIVERED"
-    },
-    "JLC-005": {
-        "date": "2026-04-12",
-        "model": "INPIRON 3511",
-        "status": "WAITING PARTS"
     }
 }
