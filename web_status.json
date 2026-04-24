@@ -8,5 +8,10 @@
         "date": "2026-04-25",
         "model": "LA-L241P",
         "status": "DIAGNOSING"
+    },
+    "JLC-003": {
+        "date": "2026-04-25",
+        "model": "STUART",
+        "status": "RECEIVED"
     }
 }
