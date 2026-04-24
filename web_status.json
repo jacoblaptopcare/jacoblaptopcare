@@ -3,5 +3,10 @@
         "date": "2026-04-25",
         "model": "INPIRON 3511",
         "status": "RECEIVED"
+    },
+    "JLC-002": {
+        "date": "2026-04-25",
+        "model": "LA-L241P",
+        "status": "RECEIVED"
     }
 }
