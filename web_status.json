@@ -18,5 +18,10 @@
         "date": "2026-04-25",
         "model": "FRU",
         "status": "REPAIRED"
+    },
+    "JLC-005": {
+        "date": "2026-04-25",
+        "model": "ERTY",
+        "status": "RECEIVED"
     }
 }
