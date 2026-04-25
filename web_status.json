@@ -108,5 +108,10 @@
         "date": "2026-04-25",
         "model": "INSPIRON 3511",
         "status": "RECEIVED"
+    },
+    "JLC-024": {
+        "date": "2026-04-25",
+        "model": "INSPIRON 3511",
+        "status": "RECEIVED"
     }
 }
