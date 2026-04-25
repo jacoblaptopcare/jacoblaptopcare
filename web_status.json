@@ -1,11 +1,4 @@
 {
-    "JLC-1000": {
-        "date": "2026-04-25",
-        "model": "INPIRON 351",
-        "status": "RECEIVED",
-        "customer": "GAURAV",
-        "version": 1
-    },
     "JLC-G1001": {
         "date": "2026-04-26",
         "model": "INPIRON 35",
@@ -30,6 +23,13 @@
     "JLC-G1002": {
         "date": "2026-04-26",
         "model": "DOG",
+        "status": "RECEIVED",
+        "customer": "GAURAV",
+        "version": 1
+    },
+    "JLC-1000": {
+        "date": "2026-04-25",
+        "model": "INPIRON 351",
         "status": "RECEIVED",
         "customer": "GAURAV",
         "version": 1
