@@ -1,1 +1,9 @@
-{}
+{
+    "JLC-A1001": {
+        "date": "2026-04-26",
+        "model": "5420",
+        "status": "RECEIVED",
+        "customer": "AZHAR",
+        "version": 1
+    }
+}
