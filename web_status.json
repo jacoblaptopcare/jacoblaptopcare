@@ -5,5 +5,12 @@
         "status": "RECEIVED",
         "customer": "AZHAR",
         "version": 1
+    },
+    "JLC-H5683": {
+        "date": "2026-04-26",
+        "model": "DOG",
+        "status": "RECEIVED",
+        "customer": "HONEY",
+        "version": 1
     }
 }
