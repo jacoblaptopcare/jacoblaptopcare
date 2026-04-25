@@ -19,5 +19,12 @@
         "status": "RECEIVED",
         "customer": "HONEY",
         "version": 1
+    },
+    "JLC-H1002": {
+        "date": "2026-04-26",
+        "model": "GAO",
+        "status": "RECEIVED",
+        "customer": "HONEY",
+        "version": 1
     }
 }
