@@ -6,13 +6,6 @@
         "customer": "HONEY",
         "version": 1
     },
-    "JLC-H1002": {
-        "date": "2026-04-26",
-        "model": "GAO",
-        "status": "RECEIVED",
-        "customer": "HONEY",
-        "version": 1
-    },
     "JLC-G1002": {
         "date": "2026-04-26",
         "model": "DOG",
@@ -32,6 +25,13 @@
         "model": "INPIRON 35",
         "status": "RECEIVED",
         "customer": "GAURAV",
+        "version": 1
+    },
+    "JLC-H1002": {
+        "date": "2026-04-26",
+        "model": "GAO",
+        "status": "RECEIVED",
+        "customer": "HONEY",
         "version": 1
     }
 }
