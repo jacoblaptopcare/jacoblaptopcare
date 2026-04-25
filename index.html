@@ -71,12 +71,6 @@
             50% { transform: scale(1.05); }
         }
         
-        @keyframes borderFlow {
-            0% { background-position: 0% 50%; }
-            50% { background-position: 100% 50%; }
-            100% { background-position: 0% 50%; }
-        }
-        
         .animate-float {
             animation: float 3s ease-in-out infinite;
         }
@@ -88,57 +82,19 @@
         .animate-pulse-slow {
             animation: pulse 2s ease-in-out infinite;
         }
-
-        /* New unique tracking styles */
-        .track-card {
-            background: rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(10px);
-            border-radius: 2rem;
-            border: 1px solid rgba(255, 215, 0, 0.3);
-            box-shadow: 0 25px 45px -12px rgba(0,0,0,0.3);
+        
+        /* Hover Effects */
+        .hover-lift:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 30px -10px rgba(30, 58, 138, 0.3);
+        }
+        
+        /* Smooth Transitions */
+        * {
             transition: all 0.3s ease;
         }
-        
-        .track-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 35px 50px -15px rgba(0,0,0,0.4);
-            border-color: #fbbf24;
-        }
-        
-        .animated-border-input {
-            background: white;
-            border: 2px solid transparent;
-            background-image: linear-gradient(white, white), linear-gradient(135deg, #1e3a8a, #fbbf24, #1e3a8a);
-            background-origin: border-box;
-            background-clip: padding-box, border-box;
-            transition: all 0.3s;
-        }
-        .animated-border-input:focus {
-            outline: none;
-            animation: borderFlow 2s infinite;
-        }
-        
-        .result-card-modern {
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(5px);
-            border-radius: 1.5rem;
-            border-left: 6px solid #fbbf24;
-            transition: 0.3s;
-        }
-        
-        .status-badge-new {
-            display: inline-flex;
-            align-items: center;
-            gap: 0.5rem;
-            padding: 0.4rem 1rem;
-            border-radius: 9999px;
-            font-weight: 800;
-            font-size: 0.75rem;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-        }
-        
-        /* Mobile adjustments */
+
+        /* Mobile Optimizations */
         @media (max-width: 768px) {
             .container-padding {
                 padding-left: 1rem;
@@ -146,9 +102,6 @@
             }
             .text-responsive {
                 font-size: 0.9rem;
-            }
-            .track-card {
-                margin: 0 0.5rem;
             }
         }
     </style>
@@ -290,34 +243,17 @@
         </div>
     </section>
 
-    <!-- ========== UNIQUE TRACK REPAIR SECTION (REDESIGNED) ========== -->
-    <section class="py-12 md:py-20 px-3 bg-gradient-to-br from-[#1e3a8a] via-[#0f2b5e] to-[#0a1a3a] text-white shadow-inner" id="track-repair">
-        <div class="max-w-4xl mx-auto">
-            <div class="track-card p-6 md:p-10">
-                <div class="text-center mb-8">
-                    <div class="inline-flex items-center justify-center bg-[#fbbf24]/20 rounded-full p-3 mb-4 backdrop-blur-sm">
-                        <i class="fas fa-search-location text-3xl md:text-4xl text-[#fbbf24]"></i>
-                    </div>
-                    <h2 class="text-2xl md:text-4xl font-black mb-2 tracking-tight">Track Your Repair</h2>
-                    <p class="text-gray-300 text-sm md:text-base max-w-md mx-auto">Enter your unique Job ID to get real-time status of your device.</p>
-                </div>
+    <section class="py-8 md:py-12 bg-[#1e3a8a] text-white px-3 shadow-inner" id="track-repair">
+        <div class="max-w-3xl mx-auto text-center">
+            <h2 class="text-xl md:text-3xl font-black mb-2 text-[#fbbf24]"><i class="fas fa-search-location mr-2"></i>Track Your Repair</h2>
+            <p class="text-xs md:text-sm text-gray-300 mb-6">Enter your Job ID (e.g., JLC-001) to check the live status of your device.</p>
+            
+            <div class="flex flex-col md:flex-row gap-2 justify-center max-w-lg mx-auto">
+                <input type="text" id="track-id" placeholder="Enter Job ID (JLC-XXX)" class="px-4 py-3 rounded-xl text-black font-bold focus:outline-none focus:ring-2 focus:ring-[#fbbf24] w-full md:w-2/3 uppercase">
+                <button onclick="trackStatus()" class="bg-[#fbbf24] text-[#1e3a8a] px-6 py-3 rounded-xl font-black hover:scale-105 transition-all w-full md:w-1/3 shadow-lg">CHECK STATUS</button>
+            </div>
 
-                <div class="flex flex-col md:flex-row gap-4 justify-center max-w-2xl mx-auto">
-                    <div class="relative flex-1">
-                        <i class="fas fa-hashtag absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 text-sm"></i>
-                        <input type="text" id="track-id" placeholder="JLC-G1001" 
-                               class="animated-border-input w-full pl-10 pr-4 py-4 rounded-xl text-black font-bold focus:outline-none transition-all text-center md:text-left uppercase">
-                    </div>
-                    <button onclick="trackStatus()" 
-                            class="bg-gradient-to-r from-[#fbbf24] to-yellow-500 text-[#1e3a8a] px-8 py-4 rounded-xl font-black text-base hover:scale-105 transition-all shadow-lg flex items-center justify-center gap-2 group">
-                        <span>CHECK STATUS</span>
-                        <i class="fas fa-arrow-right group-hover:translate-x-1 transition-transform"></i>
-                    </button>
-                </div>
-
-                <div id="track-result" class="mt-8 hidden result-card-modern p-5 text-black max-w-2xl mx-auto transform transition-all duration-300">
-                    <!-- dynamic content will be injected -->
-                </div>
+            <div id="track-result" class="mt-6 hidden bg-white text-black p-4 rounded-xl shadow-lg border-l-4 border-[#fbbf24] text-left max-w-lg mx-auto transform transition-all duration-300">
             </div>
         </div>
     </section>
@@ -327,112 +263,46 @@
             let jobId = document.getElementById('track-id').value.trim().toUpperCase();
             const resultDiv = document.getElementById('track-result');
             
-            if(!jobId) { 
-                alert("❌ Please enter a Job ID"); 
-                return; 
-            }
+            if(!jobId) { alert("Please enter a Job ID"); return; }
             if(!jobId.startsWith("JLC-")) {
-                // Allow user to enter just numbers? No, keep strict format
-                alert("⚠️ Job ID must start with JLC- (e.g., JLC-G1001)");
-                return;
+                jobId = "JLC-" + jobId.replace(/[^0-9]/g, '').padStart(3, '0');
             }
 
-            resultDiv.innerHTML = "<div class='text-center text-gray-600'><i class='fas fa-spinner fa-spin text-2xl'></i><br>Searching database...</div>";
+            resultDiv.innerHTML = "<p class='text-center text-gray-500 font-bold'><i class='fas fa-spinner fa-spin'></i> Searching Database...</p>";
             resultDiv.classList.remove('hidden');
 
             try {
+                // v= time is used so browser doesn't load old cached file
                 const response = await fetch('web_status.json?v=' + new Date().getTime());
-                if (!response.ok) throw new Error('JSON not found');
+                if (!response.ok) throw new Error('File not found');
                 const data = await response.json();
 
                 if(data[jobId]) {
                     const info = data[jobId];
                     let statusColor = "text-gray-600";
-                    let bgStatus = "bg-gray-100";
                     let icon = "fa-clock";
                     
-                    if(info.status === "DELIVERED") { 
-                        statusColor = "text-green-700"; bgStatus = "bg-green-100"; icon = "fa-box-open"; 
-                    } else if(info.status === "REPAIRED") { 
-                        statusColor = "text-blue-700"; bgStatus = "bg-blue-100"; icon = "fa-check-circle"; 
-                    } else if(info.status === "WAITING PARTS") { 
-                        statusColor = "text-red-700"; bgStatus = "bg-red-100"; icon = "fa-hourglass-half"; 
-                    } else if(info.status === "DIAGNOSING") { 
-                        statusColor = "text-yellow-700"; bgStatus = "bg-yellow-100"; icon = "fa-tools"; 
-                    }
-
-                    const customerName = info.customer ? info.customer.toUpperCase() : 'N/A';
-                    const accessories = info.accessories ? info.accessories : '';
-                    let accessoriesHtml = '';
-                    if(accessories && accessories.trim() !== '') {
-                        accessoriesHtml = `
-                            <div class="mt-4 pt-3 border-t border-gray-200">
-                                <div class="flex items-start gap-2 text-sm">
-                                    <i class="fas fa-box-open text-[#1e3a8a] mt-0.5"></i>
-                                    <div>
-                                        <span class="font-semibold">📦 Items Received:</span>
-                                        <div class="text-gray-700 text-sm mt-1">${accessories}</div>
-                                    </div>
-                                </div>
-                            </div>
-                        `;
-                    }
+                    if(info.status === "DELIVERED") { statusColor = "text-green-600"; icon = "fa-box-open"; }
+                    else if(info.status === "REPAIRED") { statusColor = "text-blue-600"; icon = "fa-check-circle"; }
+                    else if(info.status === "WAITING PARTS") { statusColor = "text-red-600"; icon = "fa-hourglass-half"; }
+                    else if(info.status === "DIAGNOSING") { statusColor = "text-yellow-600"; icon = "fa-tools"; }
 
                     resultDiv.innerHTML = `
-                        <div class="flex justify-between items-center flex-wrap gap-2 pb-3 mb-3 border-b border-gray-200">
-                            <div class="flex items-center gap-2">
-                                <i class="fas fa-hashtag text-[#1e3a8a] text-xl"></i>
-                                <span class="font-black text-2xl text-[#1e3a8a]">${jobId}</span>
-                            </div>
-                            <span class="text-xs bg-gray-100 px-3 py-1 rounded-full text-gray-600">
-                                <i class="far fa-calendar-alt mr-1"></i> ${info.date}
-                            </span>
+                        <div class="flex justify-between items-center border-b pb-2 mb-2">
+                            <span class="font-black text-[#1e3a8a] text-lg"><i class="fas fa-hashtag text-xs"></i> ${jobId}</span>
+                            <span class="text-xs font-bold bg-gray-100 px-2 py-1 rounded text-gray-600">Recv: ${info.date}</span>
                         </div>
-                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-3">
-                            <div class="flex items-center gap-2">
-                                <i class="fas fa-user text-[#1e3a8a] w-5"></i>
-                                <span class="font-semibold">Customer:</span>
-                                <span class="font-black text-gray-900">${customerName}</span>
-                            </div>
-                            <div class="flex items-center gap-2">
-                                <i class="fas fa-laptop text-[#1e3a8a] w-5"></i>
-                                <span class="font-semibold">Device:</span>
-                                <span class="font-black text-gray-900">${info.model}</span>
-                            </div>
-                        </div>
-                        <div class="flex items-center justify-between flex-wrap gap-2 mt-2">
-                            <div class="flex items-center gap-2">
-                                <i class="fas fa-microchip text-[#1e3a8a]"></i>
-                                <span class="font-semibold">Status:</span>
-                            </div>
-                            <div class="status-badge-new ${bgStatus} ${statusColor}">
-                                <i class="fas ${icon}"></i> ${info.status}
-                            </div>
-                        </div>
-                        ${accessoriesHtml}
+                        <p class="font-bold text-sm mb-1 text-gray-600">Device: <span class="font-black text-gray-900">${info.model}</span></p>
+                        <p class="font-bold text-sm">Status: <span class="font-black ${statusColor} ml-1"><i class="fas ${icon}"></i> ${info.status}</span></p>
                     `;
                 } else {
-                    resultDiv.innerHTML = `
-                        <div class="text-center">
-                            <i class="fas fa-exclamation-triangle text-4xl text-red-500 mb-2 block"></i>
-                            <p class="text-red-600 font-bold">❌ Job ID not found</p>
-                            <p class="text-sm text-gray-500 mt-2">Please double-check your Job ID or call us at <strong>6397495447</strong></p>
-                        </div>
-                    `;
+                    resultDiv.innerHTML = `<p class="text-red-600 font-bold text-center"><i class="fas fa-exclamation-triangle mr-1"></i> Job ID not found! Please call us at 6397495447.</p>`;
                 }
             } catch(e) {
-                console.error(e);
-                resultDiv.innerHTML = `
-                    <div class="text-center">
-                        <i class="fas fa-sync-alt text-3xl text-yellow-500 animate-spin mb-2 block"></i>
-                        <p class="text-red-600 font-bold">⚠️ Tracking system updating</p>
-                        <p class="text-sm text-gray-500 mt-2">Please try again after a few seconds.</p>
-                    </div>
-                `;
+                resultDiv.innerHTML = `<p class="text-red-600 font-bold text-center"><i class="fas fa-exclamation-triangle mr-1"></i> Tracking system updating. Please try again later.</p>`;
             }
         }
     </script>
-    
     <section id="brands" class="py-8 md:py-16 px-3 bg-white">
         <div class="max-w-7xl mx-auto text-center">
             <h2 class="text-lg md:text-2xl font-black text-gray-900 mb-4">Brands We Repair</h2>
@@ -603,7 +473,7 @@
                             <td class="p-2 md:p-5 text-green-400"><i class="fas fa-check mr-1"></i>Original</td>
                             <td class="p-2 md:p-5 text-green-400"><i class="fas fa-check mr-1"></i>Genuine</td>
                         </tr>
-                        <tr class="border-b border-gray-700">
+                        <tr>
                             <td class="p-2 md:p-5">Diagnosis Fee</td>
                             <td class="p-2 md:p-5 text-red-400"><i class="fas fa-times mr-1"></i>Paid</td>
                             <td class="p-2 md:p-5 text-green-400"><i class="fas fa-check mr-1"></i>Free</td>
@@ -780,40 +650,54 @@
             
             if (form) {
                 form.addEventListener('submit', async function(e) {
-                    e.preventDefault();
+                    e.preventDefault(); // Page reload rokta hai
                     
+                    // Submit button disable karo
                     const submitBtn = form.querySelector('button[type="submit"]');
                     const originalText = submitBtn.innerText;
                     submitBtn.innerText = 'SENDING...';
                     submitBtn.disabled = true;
                     
+                    // Form data collect karo
                     const formData = new FormData(form);
+                    
+                    // Add subject
                     formData.append('_subject', 'New Callback Request from Jacob Laptop Care Website');
                     
                     try {
                         const response = await fetch('https://formspree.io/f/xkovanag', {
                             method: 'POST',
                             body: formData,
-                            headers: { 'Accept': 'application/json' }
+                            headers: {
+                                'Accept': 'application/json'
+                            }
                         });
                         
                         if (response.ok) {
+                            // Success message
                             messageDiv.className = 'text-center text-xs font-bold mt-2 text-green-600';
                             messageDiv.innerText = '✅ Thank you! We will call you within 30 minutes.';
                             messageDiv.classList.remove('hidden');
-                            form.reset();
-                            setTimeout(() => { messageDiv.classList.add('hidden'); }, 5000);
+                            form.reset(); // Form clear karo
+                            
+                            // 5 second baad message hide karo
+                            setTimeout(() => {
+                                messageDiv.classList.add('hidden');
+                            }, 5000);
                         } else {
+                            // Error message
                             const data = await response.json();
                             messageDiv.className = 'text-center text-xs font-bold mt-2 text-red-600';
-                            messageDiv.innerText = '❌ Error: ' + (data.error || 'Something went wrong.');
+                            messageDiv.innerText = '❌ Error: ' + (data.error || 'Something went wrong. Please call us directly.');
                             messageDiv.classList.remove('hidden');
                         }
                     } catch (error) {
+                        // Network error
                         messageDiv.className = 'text-center text-xs font-bold mt-2 text-red-600';
-                        messageDiv.innerText = '❌ Network error. Please call us at 6397495447';
+                        messageDiv.innerText = '❌ Network error. Please check your connection or call us at 6397495447';
                         messageDiv.classList.remove('hidden');
                     } finally {
+                        // Button wapas enable karo
                         submitBtn.innerText = originalText;
                         submitBtn.disabled = false;
                     }
