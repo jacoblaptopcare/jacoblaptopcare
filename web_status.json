@@ -58,5 +58,10 @@
         "date": "2026-04-25",
         "model": "5420",
         "status": "RECEIVED"
+    },
+    "JLC-014": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "RECEIVED"
     }
 }
