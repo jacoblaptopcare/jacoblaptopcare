@@ -5,7 +5,8 @@
         "status": "DELIVERED",
         "customer": "HONEY",
         "version": 5,
-        "accessories": ""
+        "accessories": "",
+        "warranty_end": ""
     },
     "JLC-A1001": {
         "date": "2026-04-26",
@@ -13,14 +14,16 @@
         "status": "REPAIRED",
         "customer": "AZHAR",
         "version": 6,
-        "accessories": ""
+        "accessories": "",
+        "warranty_end": ""
     },
     "JLC-S3613": {
         "date": "2026-04-26",
         "model": "FX506",
-        "status": "DIAGNOSING",
+        "status": "DELIVERED",
         "customer": "SANOBER",
-        "version": 5,
-        "accessories": ""
+        "version": 6,
+        "accessories": "",
+        "warranty_end": "2026-05-26"
     }
 }
