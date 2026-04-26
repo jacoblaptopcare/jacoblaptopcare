@@ -38,10 +38,10 @@
     "JLC-R516": {
         "date": "2026-04-26",
         "model": "5348",
-        "status": "DIAGNOSING",
+        "status": "DELIVERED",
         "customer": "RAJU",
-        "version": 2,
+        "version": 3,
         "accessories": "Heatsink, Fan, Display Cable",
-        "warranty_end": ""
+        "warranty_end": "2026-05-26"
     }
 }
