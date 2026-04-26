@@ -18,9 +18,9 @@
     "JLC-S3613": {
         "date": "2026-04-26",
         "model": "FX506",
-        "status": "DIAGNOSING",
+        "status": "DELIVERED",
         "customer": "SANOBER",
-        "version": 3,
+        "version": 4,
         "accessories": ""
     }
 }
