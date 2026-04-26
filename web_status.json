@@ -14,5 +14,13 @@
         "customer": "AZHAR",
         "version": 2,
         "accessories": ""
+    },
+    "JLC-S3613": {
+        "date": "2026-04-26",
+        "model": "FX506",
+        "status": "RECEIVED",
+        "customer": "SANOBER",
+        "version": 1,
+        "accessories": ""
     }
 }
