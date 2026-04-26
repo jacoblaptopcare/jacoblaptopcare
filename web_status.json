@@ -10,9 +10,9 @@
     "JLC-A1001": {
         "date": "2026-04-26",
         "model": "5420",
-        "status": "DIAGNOSING",
+        "status": "REPAIRED",
         "customer": "AZHAR",
-        "version": 5,
+        "version": 6,
         "accessories": ""
     },
     "JLC-S3613": {
