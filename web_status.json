@@ -2,25 +2,25 @@
     "JLC-H5683": {
         "date": "2026-04-26",
         "model": "DOG",
-        "status": "RECEIVED",
+        "status": "REPAIRED",
         "customer": "HONEY",
-        "version": 1,
+        "version": 2,
         "accessories": ""
     },
     "JLC-A1001": {
         "date": "2026-04-26",
         "model": "5420",
-        "status": "RECEIVED",
+        "status": "DIAGNOSING",
         "customer": "AZHAR",
-        "version": 2,
+        "version": 3,
         "accessories": ""
     },
     "JLC-S3613": {
         "date": "2026-04-26",
         "model": "FX506",
-        "status": "RECEIVED",
+        "status": "DELIVERED",
         "customer": "SANOBER",
-        "version": 1,
+        "version": 2,
         "accessories": ""
     }
 }
