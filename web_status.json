@@ -29,10 +29,10 @@
     "JLC-J332": {
         "date": "2026-04-26",
         "model": "SDERTY",
-        "status": "DIAGNOSING",
+        "status": "DELIVERED",
         "customer": "JAVED",
-        "version": 2,
+        "version": 3,
         "accessories": "Fan, Display Cable, USB Board",
-        "warranty_end": ""
+        "warranty_end": "2026-05-26"
     }
 }
