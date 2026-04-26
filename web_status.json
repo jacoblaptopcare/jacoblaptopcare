@@ -2,9 +2,9 @@
     "JLC-H5683": {
         "date": "2026-04-26",
         "model": "DOG",
-        "status": "REPAIRED",
+        "status": "DIAGNOSING",
         "customer": "HONEY",
-        "version": 2,
+        "version": 3,
         "accessories": ""
     },
     "JLC-A1001": {
