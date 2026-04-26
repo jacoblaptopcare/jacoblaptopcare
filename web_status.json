@@ -25,5 +25,14 @@
         "version": 11,
         "accessories": "",
         "warranty_end": "2026-05-26"
+    },
+    "JLC-J248": {
+        "date": "2026-04-26",
+        "model": "2345",
+        "status": "RECEIVED",
+        "customer": "JAVED",
+        "version": 1,
+        "accessories": "Heatsink, Fan, DC Jack",
+        "warranty_end": ""
     }
 }
