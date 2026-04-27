@@ -1,47 +1,127 @@
 {
-    "JLC-H5683": {
-        "date": "2026-04-26",
-        "model": "DOG",
-        "status": "DELIVERED",
-        "customer": "HONEY",
-        "version": 7,
-        "accessories": "",
-        "warranty_end": "2026-05-26"
+    "JLC-002": {
+        "date": "2026-04-24",
+        "model": "FX706HF",
+        "status": "RECEIVED"
     },
-    "JLC-A1001": {
-        "date": "2026-04-26",
+    "JLC-004": {
+        "date": "2026-04-24",
+        "model": "7320",
+        "status": "RECEIVED"
+    },
+    "JLC-005": {
+        "date": "2026-04-24",
+        "model": "7320",
+        "status": "RECEIVED"
+    },
+    "JLC-006": {
+        "date": "2026-04-25",
         "model": "5420",
-        "status": "DELIVERED",
-        "customer": "AZHAR",
-        "version": 11,
-        "accessories": "",
-        "warranty_end": "2026-05-26"
+        "status": "DIAGNOSING"
     },
-    "JLC-S3613": {
-        "date": "2026-04-26",
-        "model": "FX506",
-        "status": "DELIVERED",
-        "customer": "SANOBER",
-        "version": 11,
-        "accessories": "",
-        "warranty_end": "2026-05-26"
+    "JLC-007": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "DIAGNOSING"
     },
-    "JLC-J332": {
-        "date": "2026-04-26",
-        "model": "SDERTY",
-        "status": "DELIVERED",
-        "customer": "JAVED",
-        "version": 3,
-        "accessories": "Fan, Display Cable, USB Board",
-        "warranty_end": "2026-05-26"
+    "JLC-008": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "DIAGNOSING"
     },
-    "JLC-R516": {
-        "date": "2026-04-26",
-        "model": "5348",
-        "status": "DELIVERED",
-        "customer": "RAJU",
-        "version": 3,
-        "accessories": "Heatsink, Fan, Display Cable",
-        "warranty_end": "2026-05-26"
+    "JLC-009": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "DIAGNOSING"
+    },
+    "JLC-010": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "DIAGNOSING"
+    },
+    "JLC-011": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "DIAGNOSING"
+    },
+    "JLC-012": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "DIAGNOSING"
+    },
+    "JLC-013": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "DIAGNOSING"
+    },
+    "JLC-014": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "DIAGNOSING"
+    },
+    "JLC-015": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "DIAGNOSING"
+    },
+    "JLC-016": {
+        "date": "2026-04-25",
+        "model": "840 G8",
+        "status": "WAITING PARTS"
+    },
+    "JLC-017": {
+        "date": "2026-04-25",
+        "model": "G513",
+        "status": "RECEIVED"
+    },
+    "JLC-018": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "WAITING PARTS"
+    },
+    "JLC-019": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "WAITING PARTS"
+    },
+    "JLC-020": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "WAITING PARTS"
+    },
+    "JLC-021": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "WAITING PARTS"
+    },
+    "JLC-022": {
+        "date": "2026-04-25",
+        "model": "INSPIRON 3511",
+        "status": "RECEIVED"
+    },
+    "JLC-023": {
+        "date": "2026-04-25",
+        "model": "INSPIRON 3511",
+        "status": "RECEIVED"
+    },
+    "JLC-024": {
+        "date": "2026-04-25",
+        "model": "INSPIRON 3511",
+        "status": "RECEIVED"
+    },
+    "JLC-025": {
+        "date": "2026-04-25",
+        "model": "INSPIRON 3511",
+        "status": "RECEIVED"
+    },
+    "JLC-026": {
+        "date": "2026-04-25",
+        "model": "INSPIRON 3511",
+        "status": "RECEIVED"
+    },
+    "JLC-001": {
+        "date": "2026-04-24",
+        "model": "ASUS VIVOBOOK",
+        "status": "WAITING PARTS"
     }
 }
