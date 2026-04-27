@@ -1,9 +1,4 @@
 {
-    "JLC-002": {
-        "date": "2026-04-24",
-        "model": "FX706HF",
-        "status": "RECEIVED"
-    },
     "JLC-005": {
         "date": "2026-04-24",
         "model": "7320",
@@ -122,6 +117,11 @@
     "JLC-004": {
         "date": "2026-04-24",
         "model": "7320",
+        "status": "RECEIVED"
+    },
+    "JLC-002": {
+        "date": "2026-04-24",
+        "model": "FX706HF",
         "status": "RECEIVED"
     }
 }
