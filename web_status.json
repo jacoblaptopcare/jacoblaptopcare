@@ -4,11 +4,6 @@
         "model": "FX706HF",
         "status": "RECEIVED"
     },
-    "JLC-004": {
-        "date": "2026-04-24",
-        "model": "7320",
-        "status": "RECEIVED"
-    },
     "JLC-005": {
         "date": "2026-04-24",
         "model": "7320",
@@ -123,5 +118,10 @@
         "date": "2026-04-24",
         "model": "ASUS VIVOBOOK",
         "status": "WAITING PARTS"
+    },
+    "JLC-004": {
+        "date": "2026-04-24",
+        "model": "7320",
+        "status": "RECEIVED"
     }
 }
