@@ -191,9 +191,9 @@
     "JLC-026": {
         "date": "2026-04-25",
         "model": "INSPIRON 3511",
-        "status": "REPAIRED",
+        "status": "DELIVERED",
         "customer": "GAURAV",
-        "version": 2,
+        "version": 3,
         "accessories": "",
         "warranty_end": ""
     },
