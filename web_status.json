@@ -200,9 +200,9 @@
     "JLC-001": {
         "date": "2026-04-24",
         "model": "ASUS VIVOBOOK",
-        "status": "WAITING PARTS",
+        "status": "REPAIRED",
         "customer": "SAMEER",
-        "version": 1,
+        "version": 2,
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi, Charger",
         "warranty_end": ""
     },
