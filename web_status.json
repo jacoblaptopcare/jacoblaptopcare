@@ -223,5 +223,14 @@
         "version": 1,
         "accessories": "Battery, Keyboard, Touchpad",
         "warranty_end": ""
+    },
+    "JLC-S697": {
+        "date": "2026-04-28",
+        "model": "X540UBR",
+        "status": "RECEIVED",
+        "customer": "SHOEB",
+        "version": null,
+        "accessories": "",
+        "warranty_end": ""
     }
 }
