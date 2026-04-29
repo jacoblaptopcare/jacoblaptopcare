@@ -1,4 +1,49 @@
 {
+    "JLC-H5683": {
+        "date": "2026-04-26",
+        "model": "DOG",
+        "status": "DELIVERED",
+        "customer": "HONEY",
+        "version": 7,
+        "accessories": "",
+        "warranty_end": "2026-05-26"
+    },
+    "JLC-A1001": {
+        "date": "2026-04-26",
+        "model": "5420",
+        "status": "DELIVERED",
+        "customer": "AZHAR",
+        "version": 11,
+        "accessories": "",
+        "warranty_end": "2026-05-26"
+    },
+    "JLC-S3613": {
+        "date": "2026-04-26",
+        "model": "FX506",
+        "status": "DELIVERED",
+        "customer": "SANOBER",
+        "version": 11,
+        "accessories": "",
+        "warranty_end": "2026-05-26"
+    },
+    "JLC-J332": {
+        "date": "2026-04-26",
+        "model": "SDERTY",
+        "status": "DELIVERED",
+        "customer": "JAVED",
+        "version": 3,
+        "accessories": "Fan, Display Cable, USB Board",
+        "warranty_end": "2026-05-26"
+    },
+    "JLC-R516": {
+        "date": "2026-04-26",
+        "model": "5348",
+        "status": "DELIVERED",
+        "customer": "RAJU",
+        "version": 4,
+        "accessories": "Heatsink, Fan, Display Cable",
+        "warranty_end": "2026-05-29"
+    },
     "JLC-005": {
         "date": "2026-04-24",
         "model": "7320",
