@@ -215,15 +215,6 @@
         "accessories": "",
         "warranty_end": ""
     },
-    "JLC-002": {
-        "date": "2026-04-24",
-        "model": "FX706HF",
-        "status": "WAITING PARTS",
-        "customer": "N/A",
-        "version": 2,
-        "accessories": "Battery, Keyboard, Touchpad",
-        "warranty_end": ""
-    },
     "JLC-S697": {
         "date": "2026-04-28",
         "model": "X540UBR",
@@ -259,5 +250,14 @@
         "version": 3,
         "accessories": "",
         "warranty_end": "2026-05-30"
+    },
+    "JLC-002": {
+        "date": "2026-04-24",
+        "model": "FX706HF",
+        "status": "WAITING PARTS",
+        "customer": "ENGINEERS CHOICE",
+        "version": 3,
+        "accessories": "Battery, Keyboard, Touchpad",
+        "warranty_end": ""
     }
 }
