@@ -241,14 +241,5 @@
         "version": 7,
         "accessories": "",
         "warranty_end": "2026-05-26"
-    },
-    "JLC-A1001": {
-        "date": "2026-04-26",
-        "model": "5420",
-        "status": "DELIVERED",
-        "customer": "AZHAR",
-        "version": 11,
-        "accessories": "",
-        "warranty_end": "2026-05-26"
     }
 }
