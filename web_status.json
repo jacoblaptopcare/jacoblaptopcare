@@ -2,11 +2,11 @@
     "JLC-A712": {
         "date": "2026-04-30",
         "model": "LA-L241P",
-        "status": "RECEIVED",
+        "status": "DELIVERED",
         "customer": "ANAM",
-        "version": 1,
+        "version": 2,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "2026-05-30"
     },
     "JLC-H5683": {
         "date": "2026-04-26",
