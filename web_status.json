@@ -232,5 +232,14 @@
         "version": 2,
         "accessories": "",
         "warranty_end": ""
+    },
+    "JLC-H397": {
+        "date": "2026-04-30",
+        "model": "HOG",
+        "status": "RECEIVED",
+        "customer": "HONEY",
+        "version": null,
+        "accessories": "Heatsink, Fan, Display Cable, ON/OFF Card, DC Jack, USB Board",
+        "warranty_end": ""
     }
 }
