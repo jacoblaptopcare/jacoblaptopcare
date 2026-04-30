@@ -232,14 +232,5 @@
         "version": 2,
         "accessories": "",
         "warranty_end": ""
-    },
-    "JLC-S463": {
-        "date": "2026-04-30",
-        "model": "FETCG",
-        "status": "DELIVERED",
-        "customer": "SAMEER",
-        "version": 2,
-        "accessories": "",
-        "warranty_end": "2026-05-30"
     }
 }
