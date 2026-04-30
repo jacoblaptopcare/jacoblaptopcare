@@ -1,4 +1,238 @@
 {
+    "JLC-005": {
+        "date": "2026-04-24",
+        "model": "7320",
+        "status": "RECEIVED",
+        "customer": "GAURAV",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": ""
+    },
+    "JLC-006": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "DIAGNOSING",
+        "customer": "SHOIB",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": ""
+    },
+    "JLC-007": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "DIAGNOSING",
+        "customer": "SHOIB",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": ""
+    },
+    "JLC-008": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "DIAGNOSING",
+        "customer": "SHOIB",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": ""
+    },
+    "JLC-009": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "DIAGNOSING",
+        "customer": "SHOIB",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": ""
+    },
+    "JLC-010": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "DIAGNOSING",
+        "customer": "SHOIB",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": ""
+    },
+    "JLC-011": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "DIAGNOSING",
+        "customer": "SHOIB",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": ""
+    },
+    "JLC-012": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "DIAGNOSING",
+        "customer": "SHOIB",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": ""
+    },
+    "JLC-013": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "DIAGNOSING",
+        "customer": "SHOIB",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": ""
+    },
+    "JLC-014": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "DIAGNOSING",
+        "customer": "SHOIB",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": ""
+    },
+    "JLC-015": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "DIAGNOSING",
+        "customer": "SHOIB",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": ""
+    },
+    "JLC-016": {
+        "date": "2026-04-25",
+        "model": "840 G8",
+        "status": "WAITING PARTS",
+        "customer": "SHOIB",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": ""
+    },
+    "JLC-017": {
+        "date": "2026-04-25",
+        "model": "G513",
+        "status": "RECEIVED",
+        "customer": "PUNEET",
+        "version": 1,
+        "accessories": "Heatsink",
+        "warranty_end": ""
+    },
+    "JLC-018": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "WAITING PARTS",
+        "customer": "GAURAV",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": ""
+    },
+    "JLC-019": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "WAITING PARTS",
+        "customer": "GAURAV",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": ""
+    },
+    "JLC-020": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "WAITING PARTS",
+        "customer": "GAURAV",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": ""
+    },
+    "JLC-021": {
+        "date": "2026-04-25",
+        "model": "5420",
+        "status": "WAITING PARTS",
+        "customer": "GAURAV",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": ""
+    },
+    "JLC-022": {
+        "date": "2026-04-25",
+        "model": "INSPIRON 3511",
+        "status": "RECEIVED",
+        "customer": "GAURAV",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": ""
+    },
+    "JLC-023": {
+        "date": "2026-04-25",
+        "model": "INSPIRON 3511",
+        "status": "RECEIVED",
+        "customer": "GAURAV",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": ""
+    },
+    "JLC-024": {
+        "date": "2026-04-25",
+        "model": "INSPIRON 3511",
+        "status": "RECEIVED",
+        "customer": "GAURAV",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": ""
+    },
+    "JLC-025": {
+        "date": "2026-04-25",
+        "model": "INSPIRON 3511",
+        "status": "DELIVERED",
+        "customer": "GAURAV",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": ""
+    },
+    "JLC-026": {
+        "date": "2026-04-25",
+        "model": "INSPIRON 3511",
+        "status": "DELIVERED",
+        "customer": "GAURAV",
+        "version": 4,
+        "accessories": "",
+        "warranty_end": "2026-05-29"
+    },
+    "JLC-001": {
+        "date": "2026-04-24",
+        "model": "ASUS VIVOBOOK",
+        "status": "DELIVERED",
+        "customer": "SAMEER",
+        "version": 10,
+        "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi, Charger",
+        "warranty_end": "2026-05-30"
+    },
+    "JLC-004": {
+        "date": "2026-04-24",
+        "model": "7320",
+        "status": "DIAGNOSING",
+        "customer": "GAURAV",
+        "version": 2,
+        "accessories": "",
+        "warranty_end": ""
+    },
+    "JLC-002": {
+        "date": "2026-04-24",
+        "model": "FX706HF",
+        "status": "WAITING PARTS",
+        "customer": "ENGINEERS CHOICE",
+        "version": 2,
+        "accessories": "Battery, Keyboard, Touchpad",
+        "warranty_end": ""
+    },
+    "JLC-S697": {
+        "date": "2026-04-28",
+        "model": "X540UBR",
+        "status": "WAITING PARTS",
+        "customer": "SHOEB",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": ""
+    },
     "JLC-H5683": {
         "date": "2026-04-26",
         "model": "DOG",
@@ -43,239 +277,5 @@
         "version": 4,
         "accessories": "Heatsink, Fan, Display Cable",
         "warranty_end": "2026-05-29"
-    },
-    "JLC-005": {
-        "date": "2026-04-24",
-        "model": "7320",
-        "status": "RECEIVED",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
-    },
-    "JLC-006": {
-        "date": "2026-04-25",
-        "model": "5420",
-        "status": "DIAGNOSING",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
-    },
-    "JLC-007": {
-        "date": "2026-04-25",
-        "model": "5420",
-        "status": "DIAGNOSING",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
-    },
-    "JLC-008": {
-        "date": "2026-04-25",
-        "model": "5420",
-        "status": "DIAGNOSING",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
-    },
-    "JLC-009": {
-        "date": "2026-04-25",
-        "model": "5420",
-        "status": "DIAGNOSING",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
-    },
-    "JLC-010": {
-        "date": "2026-04-25",
-        "model": "5420",
-        "status": "DIAGNOSING",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
-    },
-    "JLC-011": {
-        "date": "2026-04-25",
-        "model": "5420",
-        "status": "DIAGNOSING",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
-    },
-    "JLC-012": {
-        "date": "2026-04-25",
-        "model": "5420",
-        "status": "DIAGNOSING",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
-    },
-    "JLC-013": {
-        "date": "2026-04-25",
-        "model": "5420",
-        "status": "DIAGNOSING",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
-    },
-    "JLC-014": {
-        "date": "2026-04-25",
-        "model": "5420",
-        "status": "DIAGNOSING",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
-    },
-    "JLC-015": {
-        "date": "2026-04-25",
-        "model": "5420",
-        "status": "DIAGNOSING",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
-    },
-    "JLC-016": {
-        "date": "2026-04-25",
-        "model": "840 G8",
-        "status": "WAITING PARTS",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
-    },
-    "JLC-017": {
-        "date": "2026-04-25",
-        "model": "G513",
-        "status": "RECEIVED",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
-    },
-    "JLC-018": {
-        "date": "2026-04-25",
-        "model": "5420",
-        "status": "WAITING PARTS",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
-    },
-    "JLC-019": {
-        "date": "2026-04-25",
-        "model": "5420",
-        "status": "WAITING PARTS",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
-    },
-    "JLC-020": {
-        "date": "2026-04-25",
-        "model": "5420",
-        "status": "WAITING PARTS",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
-    },
-    "JLC-021": {
-        "date": "2026-04-25",
-        "model": "5420",
-        "status": "WAITING PARTS",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
-    },
-    "JLC-022": {
-        "date": "2026-04-25",
-        "model": "INSPIRON 3511",
-        "status": "RECEIVED",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
-    },
-    "JLC-023": {
-        "date": "2026-04-25",
-        "model": "INSPIRON 3511",
-        "status": "RECEIVED",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
-    },
-    "JLC-024": {
-        "date": "2026-04-25",
-        "model": "INSPIRON 3511",
-        "status": "RECEIVED",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
-    },
-    "JLC-025": {
-        "date": "2026-04-25",
-        "model": "INSPIRON 3511",
-        "status": "DELIVERED",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
-    },
-    "JLC-026": {
-        "date": "2026-04-25",
-        "model": "INSPIRON 3511",
-        "status": "DELIVERED",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
-    },
-    "JLC-001": {
-        "date": "2026-04-24",
-        "model": "ASUS VIVOBOOK",
-        "status": "DELIVERED",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
-    },
-    "JLC-004": {
-        "date": "2026-04-24",
-        "model": "7320",
-        "status": "DIAGNOSING",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
-    },
-    "JLC-002": {
-        "date": "2026-04-24",
-        "model": "FX706HF",
-        "status": "WAITING PARTS",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
-    },
-    "JLC-S697": {
-        "date": "2026-04-28",
-        "model": "X540UBR",
-        "status": "WAITING PARTS",
-        "customer": "N/A",
-        "version": 1,
-        "accessories": "",
-        "warranty_end": ""
     }
 }
