@@ -245,10 +245,10 @@
     "JLC-A839": {
         "date": "2026-04-30",
         "model": "LA-K324",
-        "status": "RECEIVED",
+        "status": "DELIVERED",
         "customer": "ANAM",
-        "version": 1,
+        "version": 2,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "2026-05-30"
     }
 }
