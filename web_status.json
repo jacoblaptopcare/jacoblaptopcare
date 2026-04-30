@@ -233,15 +233,6 @@
         "accessories": "",
         "warranty_end": ""
     },
-    "JLC-H320": {
-        "date": "2026-04-30",
-        "model": "GOA",
-        "status": "DELIVERED",
-        "customer": "HONEY",
-        "version": 2,
-        "accessories": "Heatsink, Fan, Display Cable, DC Jack, USB Board",
-        "warranty_end": "2026-05-30"
-    },
     "JLC-S463": {
         "date": "2026-04-30",
         "model": "FETCG",
