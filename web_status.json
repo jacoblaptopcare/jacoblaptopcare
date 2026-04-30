@@ -232,5 +232,14 @@
         "version": 2,
         "accessories": "",
         "warranty_end": ""
+    },
+    "JLC-G525": {
+        "date": "2026-04-30",
+        "model": "5420",
+        "status": "RECEIVED",
+        "customer": "GAURAV",
+        "version": null,
+        "accessories": "",
+        "warranty_end": ""
     }
 }
