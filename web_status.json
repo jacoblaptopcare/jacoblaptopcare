@@ -197,15 +197,6 @@
         "accessories": "",
         "warranty_end": "2026-05-29"
     },
-    "JLC-001": {
-        "date": "2026-04-24",
-        "model": "ASUS VIVOBOOK",
-        "status": "DELIVERED",
-        "customer": "N/A",
-        "version": 11,
-        "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi, Charger",
-        "warranty_end": "2026-05-30"
-    },
     "JLC-004": {
         "date": "2026-04-24",
         "model": "7320",
@@ -259,5 +250,14 @@
         "version": 3,
         "accessories": "Battery, Keyboard, Touchpad",
         "warranty_end": ""
+    },
+    "JLC-001": {
+        "date": "2026-04-24",
+        "model": "ASUS VIVOBOOK",
+        "status": "DELIVERED",
+        "customer": "SAMEER",
+        "version": 12,
+        "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi, Charger",
+        "warranty_end": "2026-05-30"
     }
 }
