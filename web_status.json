@@ -237,7 +237,7 @@
         "date": "2026-04-25",
         "model": "INSPIRON 3511",
         "status": "DELIVERED",
-        "customer": "GAURAV",
+        "customer": "N/A",
         "version": 4,
         "accessories": "",
         "warranty_end": "2026-05-29"
@@ -246,7 +246,7 @@
         "date": "2026-04-24",
         "model": "ASUS VIVOBOOK",
         "status": "DELIVERED",
-        "customer": "SAMEER",
+        "customer": "N/A",
         "version": 11,
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi, Charger",
         "warranty_end": "2026-05-30"
@@ -255,7 +255,7 @@
         "date": "2026-04-24",
         "model": "7320",
         "status": "DIAGNOSING",
-        "customer": "GAURAV",
+        "customer": "N/A",
         "version": 2,
         "accessories": "",
         "warranty_end": ""
@@ -264,7 +264,7 @@
         "date": "2026-04-24",
         "model": "FX706HF",
         "status": "WAITING PARTS",
-        "customer": "ENGINEERS CHOICE",
+        "customer": "N/A",
         "version": 2,
         "accessories": "Battery, Keyboard, Touchpad",
         "warranty_end": ""
@@ -273,7 +273,7 @@
         "date": "2026-04-28",
         "model": "X540UBR",
         "status": "DIAGNOSING",
-        "customer": "SHOEB",
+        "customer": "N/A",
         "version": 2,
         "accessories": "",
         "warranty_end": ""
@@ -283,7 +283,7 @@
         "model": "5420",
         "status": "RECEIVED",
         "customer": "GAURAV",
-        "version": null,
+        "version": 1,
         "accessories": "",
         "warranty_end": ""
     }
