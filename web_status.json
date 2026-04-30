@@ -236,19 +236,19 @@
     "JLC-H320": {
         "date": "2026-04-30",
         "model": "GOA",
-        "status": "RECEIVED",
+        "status": "DELIVERED",
         "customer": "HONEY",
-        "version": 1,
+        "version": 2,
         "accessories": "Heatsink, Fan, Display Cable, DC Jack, USB Board",
-        "warranty_end": ""
+        "warranty_end": "2026-05-30"
     },
     "JLC-S463": {
         "date": "2026-04-30",
         "model": "FETCG",
-        "status": "RECEIVED",
+        "status": "DELIVERED",
         "customer": "SAMEER",
-        "version": 1,
+        "version": 2,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "2026-05-30"
     }
 }
