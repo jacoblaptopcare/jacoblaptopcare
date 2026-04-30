@@ -254,9 +254,9 @@
     "JLC-J727": {
         "date": "2026-04-30",
         "model": "LA-K765",
-        "status": "RECEIVED",
+        "status": "DIAGNOSING",
         "customer": "JAVED",
-        "version": 1,
+        "version": 2,
         "accessories": "",
         "warranty_end": ""
     }
