@@ -238,8 +238,17 @@
         "model": "GOA",
         "status": "RECEIVED",
         "customer": "HONEY",
-        "version": null,
+        "version": 1,
         "accessories": "Heatsink, Fan, Display Cable, DC Jack, USB Board",
+        "warranty_end": ""
+    },
+    "JLC-S463": {
+        "date": "2026-04-30",
+        "model": "FETCG",
+        "status": "RECEIVED",
+        "customer": "SAMEER",
+        "version": 1,
+        "accessories": "",
         "warranty_end": ""
     }
 }
