@@ -268,14 +268,5 @@
         "version": 5,
         "accessories": "Fan, Display Cable, USB Board",
         "warranty_end": "2026-05-29"
-    },
-    "JLC-R516": {
-        "date": "2026-04-26",
-        "model": "5348",
-        "status": "DELIVERED",
-        "customer": "RAJU",
-        "version": 4,
-        "accessories": "Heatsink, Fan, Display Cable",
-        "warranty_end": "2026-05-29"
     }
 }
