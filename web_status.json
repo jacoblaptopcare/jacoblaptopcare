@@ -227,9 +227,9 @@
     "JLC-S697": {
         "date": "2026-04-28",
         "model": "X540UBR",
-        "status": "WAITING PARTS",
+        "status": "DIAGNOSING",
         "customer": "SHOEB",
-        "version": 1,
+        "version": 2,
         "accessories": "",
         "warranty_end": ""
     }
