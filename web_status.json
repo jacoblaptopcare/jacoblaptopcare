@@ -390,5 +390,19 @@
         "accessories": "Fan, Display Cable",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
+    },
+    "JLC-S595": {
+        "date": "2026-05-01",
+        "model": "INSPIRON 3511",
+        "status": "RECEIVED",
+        "customer": "SIDHU",
+        "phone": "92324324564",
+        "board_id": "LA-K453",
+        "problem": "DEAD",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "Fan, ON/OFF Card, DC Jack",
+        "warranty_end": "",
+        "job_type": "MOTHERBOARD"
     }
 }
