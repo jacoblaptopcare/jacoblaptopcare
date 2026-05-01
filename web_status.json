@@ -376,5 +376,19 @@
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi, Charger",
         "warranty_end": "2026-05-30",
         "job_type": "LAPTOP"
+    },
+    "JLC-T409": {
+        "date": "2026-05-01",
+        "model": "FAX",
+        "status": "RECEIVED",
+        "customer": "TU-PAC",
+        "phone": "9423154758",
+        "board_id": "21-GA",
+        "problem": "",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "Fan, Display Cable",
+        "warranty_end": "",
+        "job_type": "MOTHERBOARD"
     }
 }
