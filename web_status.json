@@ -377,20 +377,6 @@
         "warranty_end": "2026-05-30",
         "job_type": "LAPTOP"
     },
-    "JLC-T409": {
-        "date": "2026-05-01",
-        "model": "FAX",
-        "status": "DIAGNOSING",
-        "customer": "TU-PAC",
-        "phone": "9423154758",
-        "board_id": "21-GA",
-        "problem": "",
-        "date_delivered": "",
-        "version": 2,
-        "accessories": "Fan, Display Cable",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
-    },
     "JLC-S595": {
         "date": "2026-05-01",
         "model": "INSPIRON 3511",
