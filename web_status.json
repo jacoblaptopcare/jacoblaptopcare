@@ -418,5 +418,19 @@
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad",
         "warranty_end": "",
         "job_type": "LAPTOP"
+    },
+    "JLC-V459": {
+        "date": "2026-05-01",
+        "model": "G531",
+        "status": "RECEIVED",
+        "customer": "VIJAY JI",
+        "phone": "9582085581",
+        "board_id": "G531",
+        "problem": "DEAD",
+        "date_delivered": "1",
+        "version": "",
+        "accessories": "Battery, Keyboard, Touchpad, Wi-Fi",
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
