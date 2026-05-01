@@ -380,13 +380,13 @@
     "JLC-T409": {
         "date": "2026-05-01",
         "model": "FAX",
-        "status": "RECEIVED",
+        "status": "DIAGNOSING",
         "customer": "TU-PAC",
         "phone": "9423154758",
         "board_id": "21-GA",
         "problem": "",
         "date_delivered": "",
-        "version": 1,
+        "version": 2,
         "accessories": "Fan, Display Cable",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
