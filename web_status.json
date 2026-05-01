@@ -376,19 +376,5 @@
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi, Charger",
         "warranty_end": "2026-05-30",
         "job_type": "LAPTOP"
-    },
-    "JLC-S595": {
-        "date": "2026-05-01",
-        "model": "INSPIRON 3511",
-        "status": "REPAIRED",
-        "customer": "SIDHU",
-        "phone": "92324324564",
-        "board_id": "LA-K453",
-        "problem": "DEAD",
-        "date_delivered": "",
-        "version": 2,
-        "accessories": "Fan, ON/OFF Card, DC Jack",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
     }
 }
