@@ -4,251 +4,391 @@
         "model": "7320",
         "status": "RECEIVED",
         "customer": "N/A",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-006": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "DIAGNOSING",
         "customer": "N/A",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-007": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "DIAGNOSING",
         "customer": "N/A",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-008": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "DIAGNOSING",
         "customer": "N/A",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-009": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "DIAGNOSING",
         "customer": "N/A",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-010": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "DIAGNOSING",
         "customer": "N/A",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-011": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "DIAGNOSING",
         "customer": "N/A",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-012": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "DIAGNOSING",
         "customer": "N/A",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-013": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "DIAGNOSING",
         "customer": "N/A",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-014": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "DIAGNOSING",
         "customer": "N/A",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-015": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "DIAGNOSING",
         "customer": "N/A",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-016": {
         "date": "2026-04-25",
         "model": "840 G8",
         "status": "WAITING PARTS",
         "customer": "N/A",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-017": {
         "date": "2026-04-25",
         "model": "G513",
         "status": "RECEIVED",
         "customer": "N/A",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-018": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "WAITING PARTS",
         "customer": "N/A",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-019": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "WAITING PARTS",
         "customer": "N/A",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-020": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "WAITING PARTS",
         "customer": "N/A",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-021": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "WAITING PARTS",
         "customer": "N/A",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-022": {
         "date": "2026-04-25",
         "model": "INSPIRON 3511",
         "status": "RECEIVED",
         "customer": "N/A",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-023": {
         "date": "2026-04-25",
         "model": "INSPIRON 3511",
         "status": "RECEIVED",
         "customer": "N/A",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-024": {
         "date": "2026-04-25",
         "model": "INSPIRON 3511",
         "status": "RECEIVED",
         "customer": "N/A",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-025": {
         "date": "2026-04-25",
         "model": "INSPIRON 3511",
         "status": "DELIVERED",
         "customer": "N/A",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-026": {
         "date": "2026-04-25",
         "model": "INSPIRON 3511",
         "status": "DELIVERED",
         "customer": "N/A",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 4,
         "accessories": "",
-        "warranty_end": "2026-05-29"
+        "warranty_end": "2026-05-29",
+        "job_type": "LAPTOP"
     },
     "JLC-004": {
         "date": "2026-04-24",
         "model": "7320",
         "status": "DIAGNOSING",
         "customer": "N/A",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 2,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-S697": {
         "date": "2026-04-28",
         "model": "X540UBR",
         "status": "DIAGNOSING",
         "customer": "N/A",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 2,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-G525": {
         "date": "2026-04-30",
         "model": "5420",
         "status": "RECEIVED",
         "customer": "GAURAV",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-A839": {
         "date": "2026-04-30",
         "model": "LA-K324",
         "status": "DELIVERED",
         "customer": "ANAM",
+        "phone": "63876543",
+        "board_id": "3511",
+        "problem": "",
+        "date_delivered": "2026-04-30",
         "version": 2,
         "accessories": "",
-        "warranty_end": "2026-05-30"
+        "warranty_end": "2026-05-30",
+        "job_type": "LAPTOP"
     },
     "JLC-002": {
         "date": "2026-04-24",
         "model": "FX706HF",
         "status": "WAITING PARTS",
         "customer": "ENGINEERS CHOICE",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 3,
         "accessories": "Battery, Keyboard, Touchpad",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-001": {
         "date": "2026-04-24",
         "model": "ASUS VIVOBOOK",
         "status": "DELIVERED",
         "customer": "SAMEER",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 12,
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi, Charger",
-        "warranty_end": "2026-05-30"
+        "warranty_end": "2026-05-30",
+        "job_type": "LAPTOP"
     }
 }
