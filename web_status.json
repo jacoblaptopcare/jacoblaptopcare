@@ -172,9 +172,14 @@
         "model": "G513",
         "status": "DIAGNOSING",
         "customer": "PUNEET",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 2,
         "accessories": "Heatsink",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-018": {
         "date": "2026-04-25",
@@ -377,44 +382,69 @@
         "model": "NM-E361",
         "status": "RECEIVED",
         "customer": "GAURAV",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-G853": {
         "date": "2026-04-30",
         "model": "NM-E361",
         "status": "RECEIVED",
         "customer": "GAURAV",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-S736": {
         "date": "2026-04-30",
         "model": "ACER NITRO",
         "status": "DIAGNOSING",
         "customer": "SHOEB",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 2,
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-V459": {
         "date": "2026-05-01",
         "model": "G531",
-        "status": "RECEIVED",
+        "status": "DIAGNOSING",
         "customer": "VIJAY JI",
-        "version": 1,
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
+        "version": 2,
         "accessories": "Battery, Keyboard, Touchpad, Wi-Fi",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     },
     "JLC-S272": {
         "date": "2026-05-02",
         "model": "G580",
         "status": "RECEIVED",
         "customer": "SUNNY",
+        "phone": "",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "",
         "version": 1,
         "accessories": "Heatsink, Fan, DC Jack",
-        "warranty_end": ""
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
