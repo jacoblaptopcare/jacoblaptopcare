@@ -380,13 +380,13 @@
     "JLC-G634": {
         "date": "2026-04-30",
         "model": "NM-E361",
-        "status": "RECEIVED",
+        "status": "DIAGNOSING",
         "customer": "GAURAV",
         "phone": "",
         "board_id": "",
         "problem": "",
         "date_delivered": "",
-        "version": 1,
+        "version": 2,
         "accessories": "",
         "warranty_end": "",
         "job_type": "LAPTOP"
