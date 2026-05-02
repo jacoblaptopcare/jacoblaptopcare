@@ -408,13 +408,13 @@
     "JLC-S736": {
         "date": "2026-04-30",
         "model": "ACER NITRO",
-        "status": "DIAGNOSING",
+        "status": "WAITING PARTS",
         "customer": "SHOEB",
         "phone": "",
         "board_id": "",
         "problem": "",
         "date_delivered": "",
-        "version": 2,
+        "version": 3,
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad",
         "warranty_end": "",
         "job_type": "LAPTOP"
