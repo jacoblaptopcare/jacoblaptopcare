@@ -436,13 +436,13 @@
     "JLC-S272": {
         "date": "2026-05-02",
         "model": "G580",
-        "status": "RECEIVED",
+        "status": "DIAGNOSING",
         "customer": "SUNNY",
         "phone": "",
         "board_id": "",
         "problem": "",
         "date_delivered": "",
-        "version": 1,
+        "version": 2,
         "accessories": "Heatsink, Fan, DC Jack",
         "warranty_end": "",
         "job_type": "LAPTOP"
