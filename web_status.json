@@ -432,19 +432,5 @@
         "accessories": "Battery, Keyboard, Touchpad, Wi-Fi",
         "warranty_end": "",
         "job_type": "LAPTOP"
-    },
-    "JLC-S272": {
-        "date": "2026-05-02",
-        "model": "G580",
-        "status": "DIAGNOSING",
-        "customer": "SUNNY",
-        "phone": "",
-        "board_id": "",
-        "problem": "",
-        "date_delivered": "",
-        "version": 2,
-        "accessories": "Heatsink, Fan, DC Jack",
-        "warranty_end": "",
-        "job_type": "LAPTOP"
     }
 }
