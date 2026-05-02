@@ -4,433 +4,287 @@
         "model": "7320",
         "status": "RECEIVED",
         "customer": "GAURAV",
-        "phone": "9278197988",
-        "board_id": "LA-K371P",
-        "problem": "DEAD",
-        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-006": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "DIAGNOSING",
         "customer": "SHOIB",
-        "phone": "9136360038",
-        "board_id": "LA-K491P",
-        "problem": "DEAD",
-        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-007": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "DIAGNOSING",
         "customer": "SHOIB",
-        "phone": "9136360038",
-        "board_id": "LA-K491P",
-        "problem": "",
-        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-008": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "DIAGNOSING",
         "customer": "SHOIB",
-        "phone": "9136360038",
-        "board_id": "LA-K491P",
-        "problem": "",
-        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-009": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "DIAGNOSING",
         "customer": "SHOIB",
-        "phone": "9136360038",
-        "board_id": "LA-K491P",
-        "problem": "",
-        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-010": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "DIAGNOSING",
         "customer": "SHOIB",
-        "phone": "9136360038",
-        "board_id": "LA-K491P",
-        "problem": "",
-        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-011": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "DIAGNOSING",
         "customer": "SHOIB",
-        "phone": "9136360038",
-        "board_id": "LA-K491P",
-        "problem": "DEAD",
-        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-012": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "DIAGNOSING",
         "customer": "SHOIB",
-        "phone": "9136360038",
-        "board_id": "LA-K491P",
-        "problem": "DEAD",
-        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-013": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "DIAGNOSING",
         "customer": "SHOIB",
-        "phone": "9136360038",
-        "board_id": "LA-K491P",
-        "problem": "",
-        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-014": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "DIAGNOSING",
         "customer": "SHOIB",
-        "phone": "9136360038",
-        "board_id": "LA-K491P",
-        "problem": "",
-        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-015": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "DIAGNOSING",
         "customer": "SHOIB",
-        "phone": "9136360038",
-        "board_id": "LA-K491P",
-        "problem": "",
-        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-016": {
         "date": "2026-04-25",
         "model": "840 G8",
         "status": "WAITING PARTS",
         "customer": "SHOIB",
-        "phone": "9136360038",
-        "board_id": "CAMELLIA",
-        "problem": "DEAD",
-        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-017": {
         "date": "2026-04-25",
         "model": "G513",
         "status": "DIAGNOSING",
         "customer": "PUNEET",
-        "phone": "9876118495",
-        "board_id": "",
-        "problem": "DEAD",
-        "date_delivered": "",
         "version": 2,
         "accessories": "Heatsink",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-018": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "WAITING PARTS",
         "customer": "GAURAV",
-        "phone": "9278197988",
-        "board_id": "LA-K491P",
-        "problem": "",
-        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-019": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "WAITING PARTS",
         "customer": "GAURAV",
-        "phone": "9278197988",
-        "board_id": "LA-K491P",
-        "problem": "",
-        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-020": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "WAITING PARTS",
         "customer": "GAURAV",
-        "phone": "9278197988",
-        "board_id": "LA-K491P",
-        "problem": "",
-        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-021": {
         "date": "2026-04-25",
         "model": "5420",
         "status": "WAITING PARTS",
         "customer": "GAURAV",
-        "phone": "9278197988",
-        "board_id": "LA-K491P",
-        "problem": "",
-        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-022": {
         "date": "2026-04-25",
         "model": "INSPIRON 3511",
         "status": "RECEIVED",
         "customer": "GAURAV",
-        "phone": "9278197988",
-        "board_id": "LA-L241P",
-        "problem": "",
-        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-023": {
         "date": "2026-04-25",
         "model": "INSPIRON 3511",
         "status": "RECEIVED",
         "customer": "GAURAV",
-        "phone": "9278197988",
-        "board_id": "LA-L241P",
-        "problem": "",
-        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-024": {
         "date": "2026-04-25",
         "model": "INSPIRON 3511",
         "status": "RECEIVED",
         "customer": "GAURAV",
-        "phone": "9278197988",
-        "board_id": "LA-L241P",
-        "problem": "",
-        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-025": {
         "date": "2026-04-25",
         "model": "INSPIRON 3511",
         "status": "DELIVERED",
         "customer": "GAURAV",
-        "phone": "9278197988",
-        "board_id": "LA-L241P",
-        "problem": "",
-        "date_delivered": "",
         "version": 1,
         "accessories": "",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-026": {
         "date": "2026-04-25",
         "model": "INSPIRON 3511",
         "status": "DELIVERED",
         "customer": "GAURAV",
-        "phone": "9278197988",
-        "board_id": "LA-L241P",
-        "problem": "",
-        "date_delivered": "2026-04-29",
         "version": 4,
         "accessories": "",
-        "warranty_end": "2026-05-29",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": "2026-05-29"
     },
     "JLC-001": {
         "date": "2026-04-24",
         "model": "ASUS VIVOBOOK",
         "status": "DELIVERED",
         "customer": "SAMEER",
-        "phone": "",
-        "board_id": "",
-        "problem": "",
-        "date_delivered": "",
         "version": 12,
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi, Charger",
-        "warranty_end": "2026-05-30",
-        "job_type": "LAPTOP"
+        "warranty_end": "2026-05-30"
     },
     "JLC-004": {
         "date": "2026-04-24",
         "model": "7320",
         "status": "DIAGNOSING",
         "customer": "GAURAV",
-        "phone": "9278197988",
-        "board_id": "LA-K371P",
-        "problem": "DEAD",
-        "date_delivered": "",
         "version": 2,
         "accessories": "",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-002": {
         "date": "2026-04-24",
         "model": "FX706HF",
         "status": "WAITING PARTS",
         "customer": "ENGINEERS CHOICE",
-        "phone": "",
-        "board_id": "",
-        "problem": "",
-        "date_delivered": "",
         "version": 3,
         "accessories": "Battery, Keyboard, Touchpad",
-        "warranty_end": "",
-        "job_type": "LAPTOP"
+        "warranty_end": ""
     },
     "JLC-S697": {
         "date": "2026-04-28",
         "model": "X540UBR",
         "status": "DIAGNOSING",
         "customer": "SHOEB",
-        "phone": "9260915059",
-        "board_id": "X540UBR",
-        "problem": "DEAD",
-        "date_delivered": "1",
         "version": 2,
         "accessories": "",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-G525": {
         "date": "2026-04-30",
         "model": "5420",
         "status": "RECEIVED",
         "customer": "GAURAV",
-        "phone": "9278197988",
-        "board_id": "LA-K491P",
-        "problem": "DEAD",
-        "date_delivered": "1",
         "version": 1,
         "accessories": "",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-G634": {
         "date": "2026-04-30",
         "model": "NM-E361",
         "status": "RECEIVED",
         "customer": "GAURAV",
-        "phone": "9278197988",
-        "board_id": "NM-E361",
-        "problem": "",
-        "date_delivered": "1",
         "version": 1,
         "accessories": "",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-G853": {
         "date": "2026-04-30",
         "model": "NM-E361",
         "status": "RECEIVED",
         "customer": "GAURAV",
-        "phone": "9278197988",
-        "board_id": "NM-E361",
-        "problem": "DEAD",
-        "date_delivered": "1",
         "version": 1,
         "accessories": "",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
+        "warranty_end": ""
     },
     "JLC-S736": {
         "date": "2026-04-30",
         "model": "ACER NITRO",
         "status": "DIAGNOSING",
         "customer": "SHOEB",
-        "phone": "9260915059",
-        "board_id": "LA-L031P",
-        "problem": "DEAD ONLY HDD",
-        "date_delivered": "1",
         "version": 2,
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad",
-        "warranty_end": "",
-        "job_type": "LAPTOP"
+        "warranty_end": ""
     },
     "JLC-V459": {
         "date": "2026-05-01",
         "model": "G531",
         "status": "RECEIVED",
         "customer": "VIJAY JI",
-        "phone": "9582085581",
-        "board_id": "G531",
-        "problem": "DEAD",
-        "date_delivered": "1",
         "version": "",
         "accessories": "Battery, Keyboard, Touchpad, Wi-Fi",
-        "warranty_end": "",
-        "job_type": "LAPTOP"
+        "warranty_end": ""
+    },
+    "JLC-S272": {
+        "date": "2026-05-02",
+        "model": "G580",
+        "status": "RECEIVED",
+        "customer": "SUNNY",
+        "version": null,
+        "accessories": "Heatsink, Fan, DC Jack",
+        "warranty_end": ""
     }
 }
