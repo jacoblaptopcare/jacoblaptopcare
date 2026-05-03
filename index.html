@@ -245,8 +245,14 @@
         }
     </style>
 </head>
-<body class="bg-gray-50">
+<body class="bg-gray-50 overflow-x-hidden">
 
+    <!-- Desktop Floating TRACK Button -->
+    <a href="#track-repair" class="hidden md:flex fixed bottom-24 right-5 z-50 bg-[#1e3a8a] text-white px-4 py-3 rounded-full shadow-xl font-black text-sm tracking-widest hover:bg-blue-800 hover:scale-105 transition-all items-center gap-2 border border-[#fbbf24] animate-pulse-slow">
+        <i class="fas fa-search text-[#fbbf24]"></i> TRACK
+    </a>
+
+    <!-- WhatsApp Floating Button -->
     <a href="https://wa.me/916397495447" class="fixed bottom-5 right-5 bg-green-500 text-white p-3 md:p-4 rounded-full shadow-xl z-50 animate-bounce" target="_blank">
         <i class="fab fa-whatsapp text-2xl md:text-3xl"></i>
     </a>
@@ -284,7 +290,8 @@
                 </div>
             </div>
             
-            <div class="flex items-center gap-2">
+            <!-- Desktop navigation links; hidden on mobile to prevent overflow -->
+            <div class="hidden md:flex items-center gap-2">
                 <a href="#services" class="text-gray-700 hover:text-[#1e3a8a] font-semibold text-xs md:text-sm border-b-2 border-transparent hover:border-[#fbbf24] transition-all duration-300 flex items-center gap-0.5 group">
                     Services <span class="text-[#fbbf24] opacity-0 group-hover:opacity-100 transition-opacity text-xs">▶</span>
                 </a>
@@ -303,6 +310,24 @@
             </div>
         </div>
     </nav>
+
+    <!-- Mobile Action Bar (Only visible on phones) -->
+    <div class="md:hidden bg-white border-b border-gray-200 shadow-sm">
+        <div class="flex divide-x divide-gray-200">
+            <a href="tel:916397495447" class="flex-1 flex items-center justify-center gap-1 py-3 text-xs font-bold text-[#1e3a8a] hover:bg-blue-50 active:bg-blue-100 transition">
+                <i class="fas fa-phone-alt text-sm"></i>
+                <span>CALL</span>
+            </a>
+            <a href="#track-repair" class="flex-1 flex items-center justify-center gap-1 py-3 text-xs font-bold text-[#1e3a8a] hover:bg-blue-50 active:bg-blue-100 transition">
+                <i class="fas fa-search text-sm"></i>
+                <span>TRACK</span>
+            </a>
+            <a href="https://wa.me/916397495447" class="flex-1 flex items-center justify-center gap-1 py-3 text-xs font-bold bg-[#fbbf24] text-[#1e3a8a] hover:bg-yellow-400 active:bg-yellow-500 transition">
+                <i class="fab fa-whatsapp text-sm"></i>
+                <span>BOOK NOW</span>
+            </a>
+        </div>
+    </div>
 
     <section class="relative py-8 md:py-16 px-3 md:px-6 overflow-hidden">
         <div class="absolute inset-0 opacity-5" style="background-image: radial-gradient(#1e3a8a 1px, transparent 1px); background-size: 30px 30px;"></div>
@@ -405,11 +430,9 @@
     </section>
 
     <script>
-        // Helper to calculate remaining days (fixed: uses date-only, no timezone offset)
         function getWarrantyInfo(warrantyEnd) {
             if (!warrantyEnd || warrantyEnd === 'NO WARRANTY') return null;
             const today = new Date();
-            // Set to UTC midnight to avoid timezone issues
             const todayDate = new Date(Date.UTC(today.getFullYear(), today.getMonth(), today.getDate()));
             const endDate = new Date(warrantyEnd);
             const endDateUTC = new Date(Date.UTC(endDate.getFullYear(), endDate.getMonth(), endDate.getDate()));
@@ -428,7 +451,6 @@
                 return;
             }
 
-            // Format input automatically (e.g. user typed G123, converts to JLC-G123)
             let jobId = rawInput;
             if(!jobId.startsWith("JLC-")) {
                 if(jobId.includes("-")) {
@@ -440,10 +462,8 @@
 
             resultDiv.innerHTML = `<div class="tracker-result-card" style="text-align:center;">⏳ Fetching live status...</div>`;
 
-            // Adding a small delay just to show the fetching animation
             setTimeout(async () => {
                 try {
-                    // Fetch live data from web_status.json
                     const response = await fetch('web_status.json?v=' + new Date().getTime());
                     if (!response.ok) throw new Error('Database not found');
                     const data = await response.json();
@@ -465,7 +485,6 @@
                     else if (status === 'WAITING PARTS') statusClass = 'status-parts';
                     else statusClass = 'tracker-status-badge';
 
-                    // Warranty HTML Logic (using fixed calculation)
                     let warrantyHtml = '';
                     const warrantyEnd = jobData.warranty_end;
                     if (status === 'DELIVERED') {
@@ -532,7 +551,7 @@
                         <div style="font-size:0.85rem;">Tracking system is updating. Please try again later.</div>
                     </div>`;
                 }
-            }, 500); // 500ms delay for UI feel
+            }, 500);
         }
 
         document.getElementById('checkBtn').addEventListener('click', fetchStatus);
@@ -540,6 +559,7 @@
             if (e.key === 'Enter') fetchStatus();
         });
     </script>
+
     <section id="brands" class="py-8 md:py-16 px-3 bg-white">
         <div class="max-w-7xl mx-auto text-center">
             <h2 class="text-lg md:text-2xl font-black text-gray-900 mb-4">Brands We Repair</h2>
@@ -887,18 +907,14 @@
             
             if (form) {
                 form.addEventListener('submit', async function(e) {
-                    e.preventDefault(); // Page reload rokta hai
+                    e.preventDefault();
                     
-                    // Submit button disable karo
                     const submitBtn = form.querySelector('button[type="submit"]');
                     const originalText = submitBtn.innerText;
                     submitBtn.innerText = 'SENDING...';
                     submitBtn.disabled = true;
                     
-                    // Form data collect karo
                     const formData = new FormData(form);
-                    
-                    // Add subject
                     formData.append('_subject', 'New Callback Request from Jacob Laptop Care Website');
                     
                     try {
@@ -911,30 +927,24 @@
                         });
                         
                         if (response.ok) {
-                            // Success message
                             messageDiv.className = 'text-center text-xs font-bold mt-2 text-green-600';
                             messageDiv.innerText = '✅ Thank you! We will call you within 30 minutes.';
                             messageDiv.classList.remove('hidden');
-                            form.reset(); // Form clear karo
-                            
-                            // 5 second baad message hide karo
+                            form.reset();
                             setTimeout(() => {
                                 messageDiv.classList.add('hidden');
                             }, 5000);
                         } else {
-                            // Error message
                             const data = await response.json();
                             messageDiv.className = 'text-center text-xs font-bold mt-2 text-red-600';
                             messageDiv.innerText = '❌ Error: ' + (data.error || 'Something went wrong. Please call us directly.');
                             messageDiv.classList.remove('hidden');
                         }
                     } catch (error) {
-                        // Network error
                         messageDiv.className = 'text-center text-xs font-bold mt-2 text-red-600';
                         messageDiv.innerText = '❌ Network error. Please check your connection or call us at 6397495447';
                         messageDiv.classList.remove('hidden');
                     } finally {
-                        // Button wapas enable karo
                         submitBtn.innerText = originalText;
                         submitBtn.disabled = false;
                     }
