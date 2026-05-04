@@ -450,13 +450,13 @@
     "JLC-G449": {
         "date": "2026-05-04",
         "model": "VICTUS",
-        "status": "DIAGNOSING",
+        "status": "DELIVERED",
         "customer": "GAURAV",
         "phone": "9278197988",
         "board_id": "DAG3PCMB8C0",
         "problem": "DEAD",
         "date_delivered": "1",
-        "version": 1,
+        "version": 2,
         "accessories": "",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
