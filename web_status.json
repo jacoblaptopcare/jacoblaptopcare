@@ -128,13 +128,13 @@
     "JLC-014": {
         "date": "2026-04-25",
         "model": "5420",
-        "status": "DIAGNOSING",
+        "status": "DELIVERED",
         "customer": "SHOIB",
         "phone": "9136360038",
         "board_id": "LA-K491P",
         "problem": "",
-        "date_delivered": "",
-        "version": 1,
+        "date_delivered": "2026-05-04",
+        "version": 2,
         "accessories": "",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
