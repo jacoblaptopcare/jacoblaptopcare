@@ -460,5 +460,19 @@
         "accessories": "",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
+    },
+    "JLC-G776": {
+        "date": "2026-05-04",
+        "model": "NM-E341",
+        "status": "RECEIVED",
+        "customer": "GAURAV",
+        "phone": "9278197988",
+        "board_id": "NM-E341",
+        "problem": "DEAD",
+        "date_delivered": "1",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": "",
+        "job_type": "MOTHERBOARD"
     }
 }
