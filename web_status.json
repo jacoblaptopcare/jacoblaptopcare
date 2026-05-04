@@ -460,5 +460,19 @@
         "accessories": "Heatsink, Display Cable, ON/OFF Card",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
+    },
+    "JLC-G449": {
+        "date": "2026-05-04",
+        "model": "VICTUS",
+        "status": "RECEIVED",
+        "customer": "GAURAV",
+        "phone": "9278197988",
+        "board_id": "DAG3PCMB8C0",
+        "problem": "DEAD",
+        "date_delivered": "1",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": "",
+        "job_type": "MOTHERBOARD"
     }
 }
