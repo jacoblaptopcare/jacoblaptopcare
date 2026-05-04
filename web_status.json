@@ -450,13 +450,13 @@
     "JLC-S098": {
         "date": "2026-05-02",
         "model": "DAN14HMB8D0",
-        "status": "WAITING PARTS",
+        "status": "DELIVERED",
         "customer": "SUNNY",
         "phone": "9315187645",
         "board_id": "DAN14HMB8D0",
         "problem": "DEAD RAM 8GB",
         "date_delivered": "1",
-        "version": 3,
+        "version": 4,
         "accessories": "Heatsink, Display Cable, ON/OFF Card",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
