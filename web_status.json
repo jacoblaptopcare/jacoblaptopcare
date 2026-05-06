@@ -422,13 +422,13 @@
     "JLC-V459": {
         "date": "2026-05-01",
         "model": "G531",
-        "status": "WAITING PARTS",
+        "status": "DIAGNOSING",
         "customer": "VIJAY JI",
         "phone": "",
         "board_id": "",
         "problem": "",
         "date_delivered": "",
-        "version": 3,
+        "version": 4,
         "accessories": "Battery, Keyboard, Touchpad, Wi-Fi",
         "warranty_end": "",
         "job_type": "LAPTOP"
