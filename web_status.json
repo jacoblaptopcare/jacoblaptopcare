@@ -520,7 +520,7 @@
     "JLC-T185": {
         "date": "2026-05-06",
         "model": "X509FAC",
-        "status": "RECEIVED",
+        "status": "REPAIRED",
         "customer": "TECHPHONO",
         "phone": "8527361011",
         "board_id": "X509FAC",
