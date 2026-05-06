@@ -516,5 +516,19 @@
         "accessories": "",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
+    },
+    "JLC-T185": {
+        "date": "2026-05-06",
+        "model": "X509FAC",
+        "status": "RECEIVED",
+        "customer": "TECHPHONO",
+        "phone": "8527361011",
+        "board_id": "X509FAC",
+        "problem": "DEAD",
+        "date_delivered": "1",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": "",
+        "job_type": "MOTHERBOARD"
     }
 }
