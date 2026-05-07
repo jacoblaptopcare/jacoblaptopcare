@@ -534,13 +534,13 @@
     "JLC-T629": {
         "date": "2026-05-06",
         "model": "B560 2PCS",
-        "status": "REPAIRED",
+        "status": "DELIVERED",
         "customer": "TECHPHONO",
         "phone": "8527361011",
         "board_id": "10203-1",
         "problem": "WHITE DISPLAY RAM",
         "date_delivered": "1",
-        "version": 1,
+        "version": 2,
         "accessories": "Heatsink, Fan, Display Cable",
         "warranty_end": "1",
         "job_type": "MOTHERBOARD"
