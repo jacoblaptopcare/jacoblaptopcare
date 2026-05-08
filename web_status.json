@@ -614,5 +614,19 @@
         "accessories": "",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
+    },
+    "JLC-A252": {
+        "date": "2026-05-08",
+        "model": "ACER",
+        "status": "RECEIVED",
+        "customer": "AJAY SOLANKI",
+        "phone": "9310397892",
+        "board_id": "6050A3087501-MB-A02",
+        "problem": "HM SHORT",
+        "date_delivered": "1",
+        "version": 1,
+        "accessories": "Heatsink, DC Jack",
+        "warranty_end": "",
+        "job_type": "MOTHERBOARD"
     }
 }
