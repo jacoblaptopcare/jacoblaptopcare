@@ -600,5 +600,19 @@
         "accessories": "RAM, Battery, Keyboard, Touchpad, Wi-Fi",
         "warranty_end": "",
         "job_type": "LAPTOP"
+    },
+    "JLC-S198": {
+        "date": "2026-05-08",
+        "model": "NM-E401",
+        "status": "RECEIVED",
+        "customer": "SHIVAM",
+        "phone": "8299552249",
+        "board_id": "NM-E401",
+        "problem": "",
+        "date_delivered": "1",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": "",
+        "job_type": "MOTHERBOARD"
     }
 }
