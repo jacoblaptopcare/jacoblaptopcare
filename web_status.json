@@ -656,5 +656,19 @@
         "accessories": "",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
+    },
+    "JLC-J896": {
+        "date": "2026-05-09",
+        "model": "G713RC",
+        "status": "RECEIVED",
+        "customer": "JUSTIN THOMAS",
+        "phone": "8800182201",
+        "board_id": "G713RC",
+        "problem": "DEAD",
+        "date_delivered": "1",
+        "version": 1,
+        "accessories": "RAM, Battery, Keyboard, Touchpad, Wi-Fi, Charger",
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
