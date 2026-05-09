@@ -646,13 +646,13 @@
     "JLC-V921": {
         "date": "2026-05-09",
         "model": "LA-L031P",
-        "status": "DELIVERED",
+        "status": "REPAIRED",
         "customer": "VARUN",
         "phone": "8477070887",
         "board_id": "LA-L031P",
         "problem": "",
         "date_delivered": "1",
-        "version": 2,
+        "version": 3,
         "accessories": "",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
