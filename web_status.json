@@ -576,13 +576,13 @@
     "JLC-M249": {
         "date": "2026-05-07",
         "model": "DELL 2IN1",
-        "status": "DELIVERED",
+        "status": "DIAGNOSING",
         "customer": "MAYUR PARMAR",
         "phone": "9824551645",
         "board_id": "",
         "problem": "DEAD",
         "date_delivered": "1",
-        "version": 3,
+        "version": 4,
         "accessories": "RAM, Battery, Keyboard, Touchpad, Wi-Fi",
         "warranty_end": "",
         "job_type": "LAPTOP"
