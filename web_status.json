@@ -670,5 +670,19 @@
         "accessories": "RAM, Battery, Keyboard, Touchpad, Wi-Fi, Charger",
         "warranty_end": "",
         "job_type": "LAPTOP"
+    },
+    "JLC-F141": {
+        "date": "2026-05-09",
+        "model": "LA-K201P",
+        "status": "RECEIVED",
+        "customer": "HONEY",
+        "phone": "6397495447",
+        "board_id": "",
+        "problem": "",
+        "date_delivered": "1",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": "",
+        "job_type": "MOTHERBOARD"
     }
 }
