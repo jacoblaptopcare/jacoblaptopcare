@@ -674,15 +674,15 @@
     "JLC-F141": {
         "date": "2026-05-09",
         "model": "LA-K201P",
-        "status": "REPAIRED",
+        "status": "DELIVERED",
         "customer": "HONEY",
         "phone": "6397495447",
         "board_id": "",
         "problem": "",
-        "date_delivered": "1",
-        "version": 3,
+        "date_delivered": "2026-05-09",
+        "version": 4,
         "accessories": "",
-        "warranty_end": "",
+        "warranty_end": "2026-06-08",
         "job_type": "MOTHERBOARD"
     }
 }
