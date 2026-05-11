@@ -726,5 +726,19 @@
         "accessories": "Heatsink",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
+    },
+    "JLC-R736": {
+        "date": "2026-05-11",
+        "model": "E15 GEN 2 NM-D011",
+        "status": "RECEIVED",
+        "customer": "R.R. SOLUTIONS",
+        "phone": "9999058588",
+        "board_id": "NM-D011",
+        "problem": "DEAD",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "Heatsink",
+        "warranty_end": "",
+        "job_type": "MOTHERBOARD"
     }
 }
