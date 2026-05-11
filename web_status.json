@@ -712,5 +712,19 @@
         "accessories": "Heatsink, Fan",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
+    },
+    "JLC-R604": {
+        "date": "2026-05-11",
+        "model": "DELL LATITUDE 5520",
+        "status": "RECEIVED",
+        "customer": "R.R. SOLUTIONS",
+        "phone": "9999058588",
+        "board_id": "19819-1",
+        "problem": "DEAD",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "Heatsink",
+        "warranty_end": "",
+        "job_type": "MOTHERBOARD"
     }
 }
