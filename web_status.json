@@ -741,20 +741,6 @@
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
     },
-    "JLC-R561": {
-        "date": "2026-05-11",
-        "model": "HP PROBOOK 440 G7 X8M-6L",
-        "status": "RECEIVED",
-        "customer": "R.R. SOLUTIONS",
-        "phone": "9999058588",
-        "board_id": "DA0X8MMB6D0",
-        "problem": "",
-        "date_delivered": "",
-        "version": 1,
-        "accessories": "Heatsink",
-        "warranty_end": "",
-        "job_type": "MOTHERBOARD"
-    },
     "JLC-R970": {
         "date": "2026-05-11",
         "model": "HP 850 G7 CAMELLIA 6050A3140901 MB A01(A1)",
@@ -766,6 +752,20 @@
         "date_delivered": "",
         "version": 1,
         "accessories": "Heatsink",
+        "warranty_end": "",
+        "job_type": "MOTHERBOARD"
+    },
+    "JLC-R561": {
+        "date": "2026-05-11",
+        "model": "HP PROBOOK 440 G7 X8M-6L",
+        "status": "RECEIVED",
+        "customer": "R.R. SOLUTIONS",
+        "phone": "9999058588",
+        "board_id": "DA0X8MMB6D0",
+        "problem": "",
+        "date_delivered": "",
+        "version": 2,
+        "accessories": "Heatsink, DC Jack",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
     }
