@@ -786,15 +786,15 @@
     "JLC-G766": {
         "date": "2026-05-12",
         "model": "INSPIRON 3511",
-        "status": "REPAIRED",
+        "status": "DELIVERED",
         "customer": "AMANN",
         "phone": "8979604228",
         "board_id": "LA-L241P",
         "problem": "",
-        "date_delivered": "",
-        "version": 2,
+        "date_delivered": "2026-05-12",
+        "version": 3,
         "accessories": "",
-        "warranty_end": "",
+        "warranty_end": "2026-06-11",
         "job_type": "MOTHERBOARD"
     }
 }
