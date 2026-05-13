@@ -702,13 +702,13 @@
     "JLC-R181": {
         "date": "2026-05-11",
         "model": "THINKPAD T14 GEN 2 NM-D451",
-        "status": "RECEIVED",
+        "status": "DELIVERED",
         "customer": "R.R. SOLUTIONS",
         "phone": "9999058588",
         "board_id": "NM-D451",
         "problem": "DEAD",
-        "date_delivered": "",
-        "version": 1,
+        "date_delivered": "2026-05-13",
+        "version": 2,
         "accessories": "Heatsink, Fan",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
