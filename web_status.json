@@ -744,13 +744,13 @@
     "JLC-R561": {
         "date": "2026-05-11",
         "model": "HP PROBOOK 440 G7 X8M-6L",
-        "status": "RECEIVED",
+        "status": "DELIVERED",
         "customer": "R.R. SOLUTIONS",
         "phone": "9999058588",
         "board_id": "DA0X8MMB6D0",
         "problem": "",
-        "date_delivered": "",
-        "version": 2,
+        "date_delivered": "2026-05-13",
+        "version": 3,
         "accessories": "Heatsink, DC Jack",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
