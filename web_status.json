@@ -758,13 +758,13 @@
     "JLC-R970": {
         "date": "2026-05-11",
         "model": "HP 850 G7 CAMELLIA 6050A3140901 MB A01(A1)",
-        "status": "RECEIVED",
+        "status": "DELIVERED",
         "customer": "R.R. SOLUTIONS",
         "phone": "9999058588",
         "board_id": "CAMELLIA 6050A3140901 MB A01(A1)",
         "problem": "",
-        "date_delivered": "",
-        "version": 2,
+        "date_delivered": "2026-05-13",
+        "version": 3,
         "accessories": "Heatsink, DC Jack",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
