@@ -800,15 +800,15 @@
     "JLC-S227": {
         "date": "2026-05-12",
         "model": "ACER NITRO",
-        "status": "REPAIRED",
+        "status": "DELIVERED",
         "customer": "SAMEER ANSARI",
         "phone": "9871445520",
         "board_id": "LA-L181P",
         "problem": "",
-        "date_delivered": "",
-        "version": 3,
+        "date_delivered": "2026-05-23",
+        "version": 4,
         "accessories": "Heatsink",
-        "warranty_end": "",
+        "warranty_end": "2026-06-22",
         "job_type": "MOTHERBOARD"
     },
     "JLC-A011": {
