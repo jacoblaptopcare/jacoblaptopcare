@@ -842,13 +842,13 @@
     "JLC-S756": {
         "date": "2026-05-23",
         "model": "5402",
-        "status": "RECEIVED",
+        "status": "REPAIRED",
         "customer": "SHIVAM",
         "phone": "8299552249",
         "board_id": "19861-1",
         "problem": "",
         "date_delivered": "",
-        "version": 1,
+        "version": 2,
         "accessories": "",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
