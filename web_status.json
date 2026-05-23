@@ -824,5 +824,19 @@
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
         "warranty_end": "",
         "job_type": "LAPTOP"
+    },
+    "JLC-I644": {
+        "date": "2026-05-23",
+        "model": "LA-L181P",
+        "status": "RECEIVED",
+        "customer": "IMRAN KGN",
+        "phone": "9667306633",
+        "board_id": "LA-L181P",
+        "problem": "SRKMA SHORT",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": "",
+        "job_type": "MOTHERBOARD"
     }
 }
