@@ -772,15 +772,15 @@
     "JLC-P251": {
         "date": "2026-05-11",
         "model": "HP ELITEBOOK 840 G6 ZBOOK",
-        "status": "REPAIRED",
+        "status": "DELIVERED",
         "customer": "PAUL KARNAL",
         "phone": "9991888492",
         "board_id": "CRESCENT-6050A3022501-MB-A01",
         "problem": "DEAD",
-        "date_delivered": "",
-        "version": 2,
+        "date_delivered": "2026-05-25",
+        "version": 3,
         "accessories": "",
-        "warranty_end": "",
+        "warranty_end": "2026-06-24",
         "job_type": "MOTHERBOARD"
     },
     "JLC-G766": {
