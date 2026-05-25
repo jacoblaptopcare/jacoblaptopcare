@@ -814,13 +814,13 @@
     "JLC-A011": {
         "date": "2026-05-23",
         "model": "830 G7",
-        "status": "DIAGNOSING",
+        "status": "WAITING PARTS",
         "customer": "AASIF",
         "phone": "8448412122",
         "board_id": "",
         "problem": "DEAD",
         "date_delivered": "",
-        "version": 2,
+        "version": 3,
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
         "warranty_end": "",
         "job_type": "LAPTOP"
