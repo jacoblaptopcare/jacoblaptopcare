@@ -856,15 +856,15 @@
     "JLC-A445": {
         "date": "2026-05-25",
         "model": "830 G5",
-        "status": "REPAIRED",
+        "status": "DELIVERED",
         "customer": "AAKASH 105 KUNDAN",
         "phone": "8130322057",
         "board_id": "6050A2930901-MB-A01",
         "problem": "NO DISPLAY",
-        "date_delivered": "",
-        "version": 2,
+        "date_delivered": "2026-05-25",
+        "version": 3,
         "accessories": "Heatsink",
-        "warranty_end": "",
+        "warranty_end": "2026-06-24",
         "job_type": "MOTHERBOARD"
     }
 }
