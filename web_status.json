@@ -828,13 +828,13 @@
     "JLC-I644": {
         "date": "2026-05-23",
         "model": "LA-L181P",
-        "status": "DIAGNOSING",
+        "status": "DELIVERED",
         "customer": "IMRAN KGN",
         "phone": "9667306633",
         "board_id": "LA-L181P",
         "problem": "SRKMA SHORT",
-        "date_delivered": "",
-        "version": 2,
+        "date_delivered": "2026-06-01",
+        "version": 3,
         "accessories": "",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
