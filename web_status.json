@@ -880,5 +880,19 @@
         "accessories": "",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
+    },
+    "JLC-G436": {
+        "date": "2026-06-02",
+        "model": "G7G",
+        "status": "RECEIVED",
+        "customer": "GAURAV",
+        "phone": "9278197988",
+        "board_id": "G7G",
+        "problem": "DEAD",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": "",
+        "job_type": "MOTHERBOARD"
     }
 }
