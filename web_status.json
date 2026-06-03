@@ -884,15 +884,15 @@
     "JLC-G436": {
         "date": "2026-06-02",
         "model": "G7G",
-        "status": "REPAIRED",
+        "status": "DELIVERED",
         "customer": "GAURAV",
         "phone": "9278197988",
         "board_id": "G7G",
         "problem": "DEAD",
-        "date_delivered": "",
-        "version": 2,
+        "date_delivered": "2026-06-03",
+        "version": 3,
         "accessories": "",
-        "warranty_end": "",
+        "warranty_end": "2026-07-03",
         "job_type": "MOTHERBOARD"
     }
 }
