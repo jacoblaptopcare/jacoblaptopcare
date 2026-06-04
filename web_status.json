@@ -922,5 +922,19 @@
         "accessories": "",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
+    },
+    "JLC-G237": {
+        "date": "2026-06-04",
+        "model": "INSPIRON 14 5410 2-IN-1",
+        "status": "RECEIVED",
+        "customer": "GAURAV",
+        "phone": "9278197988",
+        "board_id": "203071-1",
+        "problem": "CPU SHORT",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": "",
+        "job_type": "MOTHERBOARD"
     }
 }
