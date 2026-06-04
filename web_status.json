@@ -940,13 +940,13 @@
     "JLC-N418": {
         "date": "2026-06-04",
         "model": "SSD",
-        "status": "RECEIVED",
+        "status": "DIAGNOSING",
         "customer": "NANDANI",
         "phone": "9899143639",
         "board_id": "DATA RECOVERY",
         "problem": "",
         "date_delivered": "",
-        "version": 1,
+        "version": 2,
         "accessories": "",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
