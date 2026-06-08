@@ -964,5 +964,19 @@
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
         "warranty_end": "",
         "job_type": "LAPTOP"
+    },
+    "JLC-G278": {
+        "date": "2026-06-08",
+        "model": "W540",
+        "status": "RECEIVED",
+        "customer": "GULFAM",
+        "phone": "9690691131",
+        "board_id": "",
+        "problem": "DEAD",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "Heatsink, Fan, DC Jack",
+        "warranty_end": "",
+        "job_type": "MOTHERBOARD"
     }
 }
