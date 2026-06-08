@@ -950,5 +950,19 @@
         "accessories": "",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
+    },
+    "JLC-V627": {
+        "date": "2026-06-08",
+        "model": "DELL XPS 13 7390",
+        "status": "RECEIVED",
+        "customer": "VIJAY KUMAR",
+        "phone": "8130613652",
+        "board_id": "",
+        "problem": "DEAD",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
