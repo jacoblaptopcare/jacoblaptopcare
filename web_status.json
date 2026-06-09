@@ -978,5 +978,19 @@
         "accessories": "Heatsink, Fan, DC Jack",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
+    },
+    "JLC-N222": {
+        "date": "2026-06-09",
+        "model": "HUAWEI",
+        "status": "RECEIVED",
+        "customer": "NIHAAL",
+        "phone": "8130164155",
+        "board_id": "",
+        "problem": "CPU SHORT",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": "",
+        "job_type": "MOTHERBOARD"
     }
 }
