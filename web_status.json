@@ -898,13 +898,13 @@
     "JLC-G567": {
         "date": "2026-06-03",
         "model": "INSPIRON 3511",
-        "status": "RECEIVED",
+        "status": "REPAIRED",
         "customer": "GAURAV",
         "phone": "9278197988",
         "board_id": "LA-L241P",
         "problem": "CPU CHANGE",
         "date_delivered": "",
-        "version": 1,
+        "version": 2,
         "accessories": "",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
