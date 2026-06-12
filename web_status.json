@@ -1048,5 +1048,19 @@
         "accessories": "",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
+    },
+    "JLC-G917": {
+        "date": "2026-06-12",
+        "model": "3510",
+        "status": "RECEIVED",
+        "customer": "GAURAV",
+        "phone": "9278197988",
+        "board_id": "LA-L246P",
+        "problem": "",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": "",
+        "job_type": "MOTHERBOARD"
     }
 }
