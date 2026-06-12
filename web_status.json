@@ -1024,13 +1024,13 @@
     "JLC-K557": {
         "date": "2026-06-11",
         "model": "4 PCS PCB 4 PCS BGA",
-        "status": "RECEIVED",
+        "status": "DELIVERED",
         "customer": "KAMLESH",
         "phone": "9999352281",
         "board_id": "",
         "problem": "",
-        "date_delivered": "",
-        "version": 1,
+        "date_delivered": "2026-06-12",
+        "version": 2,
         "accessories": "",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
