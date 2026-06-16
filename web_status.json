@@ -1090,5 +1090,19 @@
         "accessories": "",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
+    },
+    "JLC-S371": {
+        "date": "2026-06-16",
+        "model": "XIAOMI NOTEBOOK 14",
+        "status": "RECEIVED",
+        "customer": "SHANU",
+        "phone": "9650517870",
+        "board_id": "",
+        "problem": "DEAD",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "Battery",
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
