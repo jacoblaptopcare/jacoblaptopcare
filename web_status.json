@@ -1080,13 +1080,13 @@
     "JLC-G959": {
         "date": "2026-06-16",
         "model": "INSPIRON 3511",
-        "status": "RECEIVED",
+        "status": "DIAGNOSING",
         "customer": "JAVED ALAM",
         "phone": "9711782326",
         "board_id": "LA-L241P",
         "problem": "CPU SHORT",
         "date_delivered": "",
-        "version": 1,
+        "version": 2,
         "accessories": "",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
