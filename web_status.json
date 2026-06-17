@@ -1122,13 +1122,13 @@
     "JLC-M899": {
         "date": "2026-06-17",
         "model": "S145-14IKB",
-        "status": "RECEIVED",
+        "status": "DELIVERED",
         "customer": "MUJAHID",
         "phone": "8800243230",
         "board_id": "NM-C561 REV 1.0",
         "problem": "NO DISPLAY",
-        "date_delivered": "",
-        "version": 1,
+        "date_delivered": "2026-06-17",
+        "version": 2,
         "accessories": "",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
