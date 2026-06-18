@@ -1010,13 +1010,13 @@
     "JLC-R708": {
         "date": "2026-06-10",
         "model": "14 DH",
-        "status": "RECEIVED",
+        "status": "DELIVERED",
         "customer": "RITESH",
         "phone": "9871212110",
         "board_id": "17878-1B",
         "problem": "CPU SHORT",
-        "date_delivered": "",
-        "version": 1,
+        "date_delivered": "2026-06-18",
+        "version": 2,
         "accessories": "",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
