@@ -1136,13 +1136,13 @@
     "JLC-A983": {
         "date": "2026-06-18",
         "model": "INSPIRON 3511",
-        "status": "REPAIRED",
+        "status": "DIAGNOSING",
         "customer": "AMANN",
         "phone": "8979604228",
         "board_id": "LA-L241P",
         "problem": "WIFI RAM SSD",
         "date_delivered": "",
-        "version": 3,
+        "version": 4,
         "accessories": "Heatsink, DC Jack",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
