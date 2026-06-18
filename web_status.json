@@ -1178,15 +1178,15 @@
     "JLC-M649": {
         "date": "2026-06-18",
         "model": "NM-B901",
-        "status": "REPAIRED",
+        "status": "DELIVERED",
         "customer": "MUJAHID",
         "phone": "8800243230",
         "board_id": "NM-B901",
         "problem": "",
-        "date_delivered": "",
-        "version": 2,
+        "date_delivered": "2026-06-18",
+        "version": 3,
         "accessories": "",
-        "warranty_end": "",
+        "warranty_end": "2026-07-18",
         "job_type": "MOTHERBOARD"
     }
 }
