@@ -954,15 +954,15 @@
     "JLC-V627": {
         "date": "2026-06-08",
         "model": "DELL XPS 13 7390",
-        "status": "REPAIRED",
+        "status": "DELIVERED",
         "customer": "VIJAY KUMAR",
         "phone": "8130613652",
         "board_id": "",
         "problem": "DEAD",
-        "date_delivered": "",
-        "version": 4,
+        "date_delivered": "2026-06-19",
+        "version": 5,
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
-        "warranty_end": "",
+        "warranty_end": "2026-07-19",
         "job_type": "LAPTOP"
     },
     "JLC-G278": {
