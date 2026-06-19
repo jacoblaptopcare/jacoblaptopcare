@@ -1066,13 +1066,13 @@
     "JLC-G738": {
         "date": "2026-06-12",
         "model": "VICTUS 16-R0015NS LA-M787P",
-        "status": "RECEIVED",
+        "status": "DELIVERED",
         "customer": "GAURAV",
         "phone": "9278197988",
         "board_id": "LA-M787",
         "problem": "",
-        "date_delivered": "",
-        "version": 1,
+        "date_delivered": "2026-06-19",
+        "version": 2,
         "accessories": "",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
