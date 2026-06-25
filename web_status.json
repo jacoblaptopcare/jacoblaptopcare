@@ -1188,5 +1188,19 @@
         "accessories": "",
         "warranty_end": "2026-07-18",
         "job_type": "MOTHERBOARD"
+    },
+    "JLC-A963": {
+        "date": "2026-06-25",
+        "model": "830 G7",
+        "status": "RECEIVED",
+        "customer": "AAKASH 105 KUNDAN SSD&RAM",
+        "phone": "8130322057",
+        "board_id": "6050A2930901-MB-A01",
+        "problem": "WINDOWS NOT INSTALL SSD&RAM",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
