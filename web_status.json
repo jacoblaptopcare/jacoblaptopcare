@@ -1216,5 +1216,19 @@
         "accessories": "",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
+    },
+    "JLC-C212": {
+        "date": "2026-06-25",
+        "model": "DELL 5420",
+        "status": "RECEIVED",
+        "customer": "CAAM IT",
+        "phone": "9136360038",
+        "board_id": "",
+        "problem": "DEAD",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": "",
+        "job_type": "MOTHERBOARD"
     }
 }
