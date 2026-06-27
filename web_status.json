@@ -1272,5 +1272,19 @@
         "accessories": "",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
+    },
+    "JLC-A392": {
+        "date": "2026-06-27",
+        "model": "SAMSUNG GALAXY",
+        "status": "RECEIVED",
+        "customer": "A J COMPUTERS",
+        "phone": "8860460667",
+        "board_id": "",
+        "problem": "DEAD",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "SSD/HDD, Battery, Keyboard",
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
