@@ -1286,5 +1286,19 @@
         "accessories": "SSD/HDD, Battery, Keyboard",
         "warranty_end": "",
         "job_type": "LAPTOP"
+    },
+    "JLC-A968": {
+        "date": "2026-06-27",
+        "model": "LA-E802P",
+        "status": "RECEIVED",
+        "customer": "A J COMPUTERS",
+        "phone": "8860460667",
+        "board_id": "LA-E802P",
+        "problem": "",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "Heatsink",
+        "warranty_end": "",
+        "job_type": "MOTHERBOARD"
     }
 }
