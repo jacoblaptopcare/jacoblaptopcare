@@ -1276,13 +1276,13 @@
     "JLC-A392": {
         "date": "2026-06-27",
         "model": "SAMSUNG GALAXY",
-        "status": "DIAGNOSING",
+        "status": "REPAIRED",
         "customer": "A J COMPUTERS",
         "phone": "8860460667",
         "board_id": "",
         "problem": "DEAD",
         "date_delivered": "",
-        "version": 2,
+        "version": 3,
         "accessories": "SSD/HDD, Battery, Keyboard",
         "warranty_end": "",
         "job_type": "LAPTOP"
