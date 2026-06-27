@@ -1300,5 +1300,19 @@
         "accessories": "Heatsink",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
+    },
+    "JLC-G724": {
+        "date": "2026-06-27",
+        "model": "DELL LATITUDE 5520 PRECISION 3560 SOUTHPEAK15 ...",
+        "status": "RECEIVED",
+        "customer": "GAURAV",
+        "phone": "9278197988",
+        "board_id": "19819-1",
+        "problem": "CPU SHORT",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": "",
+        "job_type": "MOTHERBOARD"
     }
 }
