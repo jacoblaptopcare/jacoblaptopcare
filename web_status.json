@@ -1318,15 +1318,15 @@
     "JLC-S168": {
         "date": "2026-06-30",
         "model": "X9Q",
-        "status": "REPAIRED",
+        "status": "DELIVERED",
         "customer": "SURINDER JI",
         "phone": "+918285443607",
         "board_id": "X9Q",
         "problem": "TEST DONE",
-        "date_delivered": "",
-        "version": 2,
+        "date_delivered": "2026-06-30",
+        "version": 3,
         "accessories": "",
-        "warranty_end": "",
+        "warranty_end": "2026-07-30",
         "job_type": "MOTHERBOARD"
     }
 }
