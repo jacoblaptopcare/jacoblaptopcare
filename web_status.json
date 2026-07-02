@@ -1332,13 +1332,13 @@
     "JLC-A262": {
         "date": "2026-07-02",
         "model": "G531GT",
-        "status": "RECEIVED",
+        "status": "REPAIRED",
         "customer": "AAKASH 105 KUNDAN",
         "phone": "8130322057",
         "board_id": "G531GT",
         "problem": "DEAD",
         "date_delivered": "",
-        "version": 1,
+        "version": 2,
         "accessories": "",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
