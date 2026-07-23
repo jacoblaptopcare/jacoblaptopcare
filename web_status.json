@@ -1360,13 +1360,13 @@
     "JLC-T956": {
         "date": "2026-07-18",
         "model": "HP 440 G5",
-        "status": "RECEIVED",
+        "status": "DELIVERED",
         "customer": "TALEEM",
         "phone": "8816961995",
         "board_id": "",
         "problem": "NO DISPLAY",
-        "date_delivered": "",
-        "version": 1,
+        "date_delivered": "2026-07-23",
+        "version": 2,
         "accessories": "",
         "warranty_end": "",
         "job_type": "LAPTOP"
