@@ -1384,5 +1384,19 @@
         "accessories": "Heatsink",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
+    },
+    "JLC-J290": {
+        "date": "2026-07-23",
+        "model": "FX516PR",
+        "status": "RECEIVED",
+        "customer": "JOHN MAHESH AGGRAWAL",
+        "phone": "9810598343",
+        "board_id": "FX516PR",
+        "problem": "DEAD",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "Heatsink",
+        "warranty_end": "",
+        "job_type": "MOTHERBOARD"
     }
 }
