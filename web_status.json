@@ -352,13 +352,13 @@
     "JLC-G525": {
         "date": "2026-04-30",
         "model": "5420",
-        "status": "DIAGNOSING",
+        "status": "DELIVERED",
         "customer": "GAURAV",
         "phone": "",
         "board_id": "",
         "problem": "",
-        "date_delivered": "",
-        "version": 2,
+        "date_delivered": "2026-08-01",
+        "version": 3,
         "accessories": "",
         "warranty_end": "",
         "job_type": "LAPTOP"
