@@ -1398,5 +1398,19 @@
         "accessories": "Heatsink",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
+    },
+    "JLC-N141": {
+        "date": "2026-08-01",
+        "model": "DELL WORK STATION",
+        "status": "RECEIVED",
+        "customer": "NITISH PRASHAR",
+        "phone": "7307401733",
+        "board_id": "",
+        "problem": "GRAPHIC FAULTY",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
