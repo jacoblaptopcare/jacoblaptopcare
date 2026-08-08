@@ -1412,5 +1412,19 @@
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi, Charger",
         "warranty_end": "",
         "job_type": "LAPTOP"
+    },
+    "JLC-S056": {
+        "date": "2026-08-08",
+        "model": "BKXD",
+        "status": "RECEIVED",
+        "customer": "SHASHANK",
+        "phone": "9873002276",
+        "board_id": "BKXD",
+        "problem": "DEAD",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
