@@ -1402,15 +1402,15 @@
     "JLC-N141": {
         "date": "2026-08-01",
         "model": "DELL WORK STATION",
-        "status": "REPAIRED",
+        "status": "DELIVERED",
         "customer": "NITISH PRASHAR",
         "phone": "7307401733",
         "board_id": "",
         "problem": "GRAPHIC FAULTY",
-        "date_delivered": "",
-        "version": 4,
+        "date_delivered": "2026-08-11",
+        "version": 5,
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi, Charger",
-        "warranty_end": "",
+        "warranty_end": "2026-09-10",
         "job_type": "LAPTOP"
     },
     "JLC-S056": {
