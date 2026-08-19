@@ -1426,5 +1426,19 @@
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
         "warranty_end": "",
         "job_type": "LAPTOP"
+    },
+    "JLC-V448": {
+        "date": "2026-08-19",
+        "model": "830 G7",
+        "status": "RECEIVED",
+        "customer": "VIKRAMJEET",
+        "phone": "9910000437",
+        "board_id": "CATALONI",
+        "problem": "DEAD",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": "",
+        "job_type": "MOTHERBOARD"
     }
 }
