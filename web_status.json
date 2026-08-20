@@ -1440,5 +1440,19 @@
         "accessories": "",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
+    },
+    "JLC-J713": {
+        "date": "2026-08-20",
+        "model": "VOSTRO 3400",
+        "status": "RECEIVED",
+        "customer": "JAVED CHAUDHRY",
+        "phone": "9990112878",
+        "board_id": "",
+        "problem": "NOT CHARGING",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi, Charger",
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
