@@ -1454,5 +1454,19 @@
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi, Charger",
         "warranty_end": "2026-09-19",
         "job_type": "LAPTOP"
+    },
+    "JLC-P356": {
+        "date": "2026-08-29",
+        "model": "INFINIX",
+        "status": "RECEIVED",
+        "customer": "PINTU",
+        "phone": "9891655985",
+        "board_id": "INFINIX",
+        "problem": "DEAD",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "SSD/HDD",
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
