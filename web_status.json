@@ -1472,15 +1472,15 @@
     "JLC-A055": {
         "date": "2026-09-02",
         "model": "ASUS VIVOBOOK",
-        "status": "REPAIRED",
+        "status": "DELIVERED",
         "customer": "AVINASH VERMA",
         "phone": "7015121708",
         "board_id": "",
         "problem": "CPU CHANGE",
-        "date_delivered": "",
-        "version": 2,
+        "date_delivered": "2026-09-02",
+        "version": 3,
         "accessories": "RAM, Battery, Keyboard, Touchpad, Wi-Fi",
-        "warranty_end": "",
+        "warranty_end": "2026-10-02",
         "job_type": "LAPTOP"
     }
 }
