@@ -1496,5 +1496,19 @@
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
         "warranty_end": "",
         "job_type": "LAPTOP"
+    },
+    "JLC-H139": {
+        "date": "2026-09-08",
+        "model": "YOGA",
+        "status": "RECEIVED",
+        "customer": "HMANSHU JI",
+        "phone": "7494876750",
+        "board_id": "NM-DA31",
+        "problem": "DEAD",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
