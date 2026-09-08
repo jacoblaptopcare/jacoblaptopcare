@@ -1510,5 +1510,19 @@
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
         "warranty_end": "",
         "job_type": "LAPTOP"
+    },
+    "JLC-M152": {
+        "date": "2026-09-08",
+        "model": "6050A2560501-MB-A02",
+        "status": "RECEIVED",
+        "customer": "MOHSIN G4B MANJUSHA",
+        "phone": "8076469092",
+        "board_id": "6050A2560501-MB-A02",
+        "problem": "KEYBOARD NOT WORKING",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "RAM",
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
