@@ -1528,13 +1528,13 @@
     "JLC-M474": {
         "date": "2026-09-10",
         "model": "DA0PAHMB8F0",
-        "status": "RECEIVED",
+        "status": "REPAIRED",
         "customer": "MOHSIN G4B MANJUSHA",
         "phone": "8076469092",
         "board_id": "DA0PAHMB8F0",
         "problem": "DEAD",
         "date_delivered": "",
-        "version": 1,
+        "version": 2,
         "accessories": "",
         "warranty_end": "",
         "job_type": "LAPTOP"
