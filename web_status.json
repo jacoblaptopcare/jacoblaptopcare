@@ -1486,13 +1486,13 @@
     "JLC-U235": {
         "date": "2026-09-03",
         "model": "INPIRON 5570",
-        "status": "DIAGNOSING",
+        "status": "WAITING PARTS",
         "customer": "UMAKANT MANSAROVER",
         "phone": "9999074550",
         "board_id": "INPIRON 5570",
         "problem": "DEAD",
         "date_delivered": "",
-        "version": 2,
+        "version": 3,
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
         "warranty_end": "",
         "job_type": "LAPTOP"
