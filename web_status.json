@@ -1346,15 +1346,15 @@
     "JLC-T502": {
         "date": "2026-07-16",
         "model": "DANJLMB2AA0",
-        "status": "REPAIRED",
+        "status": "DELIVERED",
         "customer": "TECHPHONO",
         "phone": "8527361011",
         "board_id": "DANJLMB2AA0",
         "problem": "NO DISPLAY",
-        "date_delivered": "",
-        "version": 2,
+        "date_delivered": "2026-09-14",
+        "version": 3,
         "accessories": "Heatsink",
-        "warranty_end": "",
+        "warranty_end": "2026-10-14",
         "job_type": "MOTHERBOARD"
     },
     "JLC-T956": {
