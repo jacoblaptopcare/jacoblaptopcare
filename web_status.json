@@ -1542,13 +1542,13 @@
     "JLC-T411": {
         "date": "2026-09-12",
         "model": "NJJ",
-        "status": "DIAGNOSING",
+        "status": "WAITING PARTS",
         "customer": "TANUJ",
         "phone": "+919509748718",
         "board_id": "NJJ",
         "problem": "PCH SHORT",
         "date_delivered": "",
-        "version": 2,
+        "version": 3,
         "accessories": "Battery, Keyboard, Touchpad, Wi-Fi",
         "warranty_end": "",
         "job_type": "LAPTOP"
