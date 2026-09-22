@@ -1556,13 +1556,13 @@
     "JLC-A149": {
         "date": "2026-09-19",
         "model": "ASUS VIVOBOOK S14",
-        "status": "DIAGNOSING",
+        "status": "WAITING PARTS",
         "customer": "ARUN",
         "phone": "8860106115",
         "board_id": "S14",
         "problem": "",
         "date_delivered": "",
-        "version": 2,
+        "version": 3,
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
         "warranty_end": "",
         "job_type": "LAPTOP"
