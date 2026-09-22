@@ -1566,5 +1566,19 @@
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
         "warranty_end": "",
         "job_type": "LAPTOP"
+    },
+    "JLC-M890": {
+        "date": "2026-09-22",
+        "model": "DELL VOSTRO",
+        "status": "RECEIVED",
+        "customer": "MUSTAKEEM",
+        "phone": "9971524854",
+        "board_id": "DMB50",
+        "problem": "DEAD",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
