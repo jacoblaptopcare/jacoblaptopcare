@@ -1570,13 +1570,13 @@
     "JLC-M890": {
         "date": "2026-09-22",
         "model": "DELL VOSTRO",
-        "status": "RECEIVED",
+        "status": "REPAIRED",
         "customer": "MUSTAKEEM",
         "phone": "9971524854",
         "board_id": "DMB50",
         "problem": "DEAD",
         "date_delivered": "",
-        "version": 1,
+        "version": 2,
         "accessories": "",
         "warranty_end": "",
         "job_type": "LAPTOP"
