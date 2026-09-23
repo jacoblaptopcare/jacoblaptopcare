@@ -1584,15 +1584,15 @@
     "JLC-M163": {
         "date": "2026-09-23",
         "model": "CYBORG",
-        "status": "REPAIRED",
+        "status": "DELIVERED",
         "customer": "MOHSIN G4B MANJUSHA",
         "phone": "8076469092",
         "board_id": "203038-1",
         "problem": "DEAD",
-        "date_delivered": "",
-        "version": 2,
+        "date_delivered": "2026-09-23",
+        "version": 3,
         "accessories": "Heatsink, DC Jack",
-        "warranty_end": "",
+        "warranty_end": "2026-10-23",
         "job_type": "MOTHERBOARD"
     }
 }
