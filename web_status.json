@@ -1622,5 +1622,19 @@
         "accessories": "Heatsink, DC Jack",
         "warranty_end": "2026-10-26",
         "job_type": "MOTHERBOARD"
+    },
+    "JLC-M612": {
+        "date": "2026-09-26",
+        "model": "LOQ15APH8",
+        "status": "RECEIVED",
+        "customer": "MS COMPUTERS",
+        "phone": "8002323332",
+        "board_id": "LOQ15APH8",
+        "problem": "DEAD",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "RAM, SSD/HDD, Battery, Wi-Fi",
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
