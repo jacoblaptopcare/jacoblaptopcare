@@ -1612,13 +1612,13 @@
     "JLC-V409": {
         "date": "2026-09-26",
         "model": "G7HA",
-        "status": "RECEIVED",
+        "status": "REPAIRED",
         "customer": "VISHWAS",
         "phone": "9599493928",
         "board_id": "G7HA",
         "problem": "DIM DISPLAY",
         "date_delivered": "",
-        "version": 1,
+        "version": 2,
         "accessories": "Heatsink, DC Jack",
         "warranty_end": "",
         "job_type": "MOTHERBOARD"
