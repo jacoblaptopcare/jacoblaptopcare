@@ -1664,5 +1664,19 @@
         "accessories": "SSD/HDD, Battery, Touchpad, Wi-Fi",
         "warranty_end": "",
         "job_type": "LAPTOP"
+    },
+    "JLC-S818": {
+        "date": "2026-10-09",
+        "model": "HP VICTUS",
+        "status": "RECEIVED",
+        "customer": "SURINDER J&K",
+        "phone": "7051873540",
+        "board_id": "G3PB",
+        "problem": "CPU SHORT",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
