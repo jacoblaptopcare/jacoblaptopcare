@@ -1654,13 +1654,13 @@
     "JLC-M541": {
         "date": "2026-10-07",
         "model": "REALME",
-        "status": "RECEIVED",
+        "status": "DIAGNOSING",
         "customer": "MOHAMMED AMEEN",
         "phone": "8368876671",
         "board_id": "REAL ME",
         "problem": "DEAD",
         "date_delivered": "",
-        "version": 1,
+        "version": 2,
         "accessories": "SSD/HDD, Battery, Touchpad, Wi-Fi",
         "warranty_end": "",
         "job_type": "LAPTOP"
