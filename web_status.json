@@ -1678,5 +1678,19 @@
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
         "warranty_end": "",
         "job_type": "LAPTOP"
+    },
+    "JLC-A119": {
+        "date": "2026-10-12",
+        "model": "FA566NCR",
+        "status": "RECEIVED",
+        "customer": "ANSHUL BAHUGUNA",
+        "phone": "7078049856",
+        "board_id": "NJX",
+        "problem": "CPU SHORT",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
