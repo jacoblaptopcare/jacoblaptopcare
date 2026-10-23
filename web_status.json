@@ -1706,5 +1706,19 @@
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
         "warranty_end": "",
         "job_type": "LAPTOP"
+    },
+    "JLC-M146": {
+        "date": "2026-10-23",
+        "model": "FX506",
+        "status": "RECEIVED",
+        "customer": "MOHIT MEHTA",
+        "phone": "9220808399",
+        "board_id": "NJJ",
+        "problem": "CPU SHORT",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
