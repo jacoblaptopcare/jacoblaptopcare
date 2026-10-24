@@ -1710,13 +1710,13 @@
     "JLC-M146": {
         "date": "2026-10-23",
         "model": "FX506",
-        "status": "RECEIVED",
+        "status": "DIAGNOSING",
         "customer": "MOHIT MEHTA",
         "phone": "9220808399",
         "board_id": "NJJ",
         "problem": "CPU SHORT",
         "date_delivered": "",
-        "version": 2,
+        "version": 3,
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi, Charger",
         "warranty_end": "",
         "job_type": "LAPTOP"
