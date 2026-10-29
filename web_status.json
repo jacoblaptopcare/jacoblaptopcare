@@ -1720,5 +1720,19 @@
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi, Charger",
         "warranty_end": "",
         "job_type": "LAPTOP"
+    },
+    "JLC-C136": {
+        "date": "2026-10-29",
+        "model": "NJLF",
+        "status": "RECEIVED",
+        "customer": "CHAITANYA JI",
+        "phone": "7503834403",
+        "board_id": "NJLF",
+        "problem": "CPU SHORT",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "Charger",
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
