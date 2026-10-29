@@ -1724,13 +1724,13 @@
     "JLC-C136": {
         "date": "2026-10-29",
         "model": "NJLF",
-        "status": "RECEIVED",
+        "status": "DIAGNOSING",
         "customer": "CHAITANYA JI",
         "phone": "7503834403",
         "board_id": "NJLF",
         "problem": "CPU SHORT",
         "date_delivered": "",
-        "version": 1,
+        "version": 2,
         "accessories": "Charger",
         "warranty_end": "",
         "job_type": "LAPTOP"
