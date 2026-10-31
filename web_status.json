@@ -1748,5 +1748,19 @@
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi, Charger",
         "warranty_end": "",
         "job_type": "LAPTOP"
+    },
+    "JLC-A180": {
+        "date": "2026-10-31",
+        "model": "G513RC",
+        "status": "RECEIVED",
+        "customer": "ABHINAV BHATT",
+        "phone": "8126236988",
+        "board_id": "NJK",
+        "problem": "GPU",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
