@@ -1766,13 +1766,13 @@
     "JLC-I076": {
         "date": "2026-10-31",
         "model": "Y540",
-        "status": "RECEIVED",
+        "status": "DIAGNOSING",
         "customer": "IQBAL",
         "phone": "8743890109",
         "board_id": "NM-C921",
         "problem": "",
         "date_delivered": "",
-        "version": 1,
+        "version": 2,
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
         "warranty_end": "",
         "job_type": "LAPTOP"
