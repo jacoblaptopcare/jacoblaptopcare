@@ -1734,5 +1734,19 @@
         "accessories": "Charger",
         "warranty_end": "",
         "job_type": "LAPTOP"
+    },
+    "JLC-N295": {
+        "date": "2026-10-31",
+        "model": "ASPIRE A715-79G",
+        "status": "RECEIVED",
+        "customer": "NIKHIL JOSHI AGRA",
+        "phone": "8439573265",
+        "board_id": "ACER",
+        "problem": "GPU PROBLEM",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi, Charger",
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
