@@ -1776,5 +1776,19 @@
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
         "warranty_end": "",
         "job_type": "LAPTOP"
+    },
+    "JLC-H126": {
+        "date": "2026-11-02",
+        "model": "S3502ZA",
+        "status": "RECEIVED",
+        "customer": "HARMEET",
+        "phone": "8920220024",
+        "board_id": "S3502ZA",
+        "problem": "",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
