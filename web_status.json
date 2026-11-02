@@ -1784,9 +1784,9 @@
         "customer": "HARMEET",
         "phone": "8920220024",
         "board_id": "S3502ZA",
-        "problem": "",
+        "problem": "DEAD",
         "date_delivered": "",
-        "version": 1,
+        "version": 2,
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
         "warranty_end": "",
         "job_type": "LAPTOP"
