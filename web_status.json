@@ -1790,5 +1790,19 @@
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
         "warranty_end": "",
         "job_type": "LAPTOP"
+    },
+    "JLC-A496": {
+        "date": "2026-11-02",
+        "model": "CYBORG 15",
+        "status": "RECEIVED",
+        "customer": "ARPIT",
+        "phone": "9761618102",
+        "board_id": "MS-15K11",
+        "problem": "DEAD",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
