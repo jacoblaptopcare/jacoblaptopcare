@@ -1794,15 +1794,15 @@
     "JLC-A496": {
         "date": "2026-11-02",
         "model": "CYBORG 15",
-        "status": "REPAIRED",
+        "status": "DELIVERED",
         "customer": "ARPIT",
         "phone": "9761618102",
         "board_id": "MS-15K11",
         "problem": "DEAD",
-        "date_delivered": "",
-        "version": 2,
+        "date_delivered": "2026-11-04",
+        "version": 3,
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
-        "warranty_end": "",
+        "warranty_end": "2026-12-04",
         "job_type": "LAPTOP"
     }
 }
