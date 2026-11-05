@@ -1766,15 +1766,15 @@
     "JLC-I076": {
         "date": "2026-10-31",
         "model": "Y540",
-        "status": "REPAIRED",
+        "status": "DELIVERED",
         "customer": "IQBAL",
         "phone": "8743890109",
         "board_id": "NM-C921",
         "problem": "",
-        "date_delivered": "",
-        "version": 3,
+        "date_delivered": "2026-11-05",
+        "version": 4,
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
-        "warranty_end": "",
+        "warranty_end": "2026-12-05",
         "job_type": "LAPTOP"
     },
     "JLC-H126": {
