@@ -1752,13 +1752,13 @@
     "JLC-A180": {
         "date": "2026-10-31",
         "model": "G513RC",
-        "status": "RECEIVED",
+        "status": "DIAGNOSING",
         "customer": "ABHINAV BHATT",
         "phone": "8126236988",
         "board_id": "NJK",
         "problem": "GPU",
         "date_delivered": "",
-        "version": 2,
+        "version": 3,
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi, Charger",
         "warranty_end": "",
         "job_type": "LAPTOP"
