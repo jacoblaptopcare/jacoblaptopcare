@@ -1818,5 +1818,19 @@
         "accessories": "Battery, Keyboard, Touchpad",
         "warranty_end": "",
         "job_type": "LAPTOP"
+    },
+    "JLC-N738": {
+        "date": "2026-11-14",
+        "model": "DELL G5SE",
+        "status": "RECEIVED",
+        "customer": "NIPUN JAIN",
+        "phone": "7665186585",
+        "board_id": "",
+        "problem": "NO DISPLAY",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "",
+        "warranty_end": "",
+        "job_type": "MOTHERBOARD"
     }
 }
