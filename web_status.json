@@ -1804,5 +1804,19 @@
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
         "warranty_end": "2026-12-04",
         "job_type": "LAPTOP"
+    },
+    "JLC-A552": {
+        "date": "2026-11-14",
+        "model": "0X3DF2",
+        "status": "RECEIVED",
+        "customer": "ANIS BHAI",
+        "phone": "8882494484",
+        "board_id": "LA-H931P",
+        "problem": "NO DISPLAY",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "Battery, Keyboard, Touchpad",
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
