@@ -1836,13 +1836,13 @@
     "JLC-M928": {
         "date": "2026-11-16",
         "model": "AP195BL",
-        "status": "RECEIVED",
+        "status": "DIAGNOSING",
         "customer": "MR NAMAN",
         "phone": "9911315502",
         "board_id": "",
         "problem": "DEAD",
         "date_delivered": "",
-        "version": 1,
+        "version": 2,
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
         "warranty_end": "",
         "job_type": "LAPTOP"
