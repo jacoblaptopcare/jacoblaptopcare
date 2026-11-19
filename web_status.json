@@ -1846,5 +1846,19 @@
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
         "warranty_end": "",
         "job_type": "LAPTOP"
+    },
+    "JLC-R078": {
+        "date": "2026-11-19",
+        "model": "PH315-55-99Z6",
+        "status": "RECEIVED",
+        "customer": "RAVI KAR",
+        "phone": "9891555126",
+        "board_id": "LA-L992P",
+        "problem": "DEAD",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
