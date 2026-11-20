@@ -1874,5 +1874,19 @@
         "accessories": "RAM",
         "warranty_end": "",
         "job_type": "LAPTOP"
+    },
+    "JLC-M170": {
+        "date": "2026-11-20",
+        "model": "FX596HE",
+        "status": "RECEIVED",
+        "customer": "MANOJ MEERUT",
+        "phone": "9897643968",
+        "board_id": "NJJ",
+        "problem": "",
+        "date_delivered": "",
+        "version": 1,
+        "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi, Charger",
+        "warranty_end": "",
+        "job_type": "LAPTOP"
     }
 }
