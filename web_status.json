@@ -1892,13 +1892,13 @@
     "JLC-R611": {
         "date": "2026-11-26",
         "model": "HP PRO C640",
-        "status": "RECEIVED",
+        "status": "DIAGNOSING",
         "customer": "RAJIB BHATTACHARJEE",
         "phone": "9073965969",
         "board_id": "5CD125JD9W",
         "problem": "",
         "date_delivered": "",
-        "version": 1,
+        "version": 2,
         "accessories": "RAM, SSD/HDD, Battery, Keyboard, Touchpad, Wi-Fi",
         "warranty_end": "",
         "job_type": "LAPTOP"
